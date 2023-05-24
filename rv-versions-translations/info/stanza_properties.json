@@ -1,0 +1,9230 @@
+{
+   "Book.Hymn.Verse": {
+      "grassmann": "Grassmann",
+      "oldenberg": "Oldenberg(ProlegNoten)",
+      "arnold": "Arnold(Sketch)",
+      "wuest": "Wuest(Stil)",
+      "witzel": "Witzel(RVHist)"
+   },
+   "01.006.06": {
+      "grassmann": "G"
+   },
+   "01.008.06": {
+      "grassmann": "G"
+   },
+   "01.008.07": {
+      "grassmann": "G"
+   },
+   "01.008.09": {
+      "grassmann": "G"
+   },
+   "01.008.10": {
+      "grassmann": "G"
+   },
+   "01.011.06": {
+      "grassmann": "G"
+   },
+   "01.011.07": {
+      "grassmann": "G"
+   },
+   "01.023.06": {
+      "witzel": "Z"
+   },
+   "01.023.19": {
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W"
+   },
+   "01.023.20": {
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W"
+   },
+   "01.023.21": {
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W"
+   },
+   "01.023.22": {
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W"
+   },
+   "01.023.23": {
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W"
+   },
+   "01.023.24": {
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W"
+   },
+   "01.024.03": {
+      "grassmann": "G"
+   },
+   "01.024.04": {
+      "grassmann": "G"
+   },
+   "01.024.05": {
+      "grassmann": "G"
+   },
+   "01.024.06": {
+      "arnold": "C1"
+   },
+   "01.024.07": {
+      "arnold": "C1"
+   },
+   "01.024.08": {
+      "arnold": "C1"
+   },
+   "01.024.09": {
+      "arnold": "C1"
+   },
+   "01.024.10": {
+      "arnold": "C1"
+   },
+   "01.024.11": {
+      "arnold": "C1"
+   },
+   "01.024.12": {
+      "arnold": "C1"
+   },
+   "01.024.13": {
+      "arnold": "C1"
+   },
+   "01.024.14": {
+      "arnold": "C1"
+   },
+   "01.024.15": {
+      "arnold": "C1"
+   },
+   "01.025.06": {
+      "grassmann": "G"
+   },
+   "01.027.13": {
+      "wuest": "w"
+   },
+   "01.028.01": {
+      "arnold": "C2"
+   },
+   "01.028.02": {
+      "arnold": "C2"
+   },
+   "01.028.03": {
+      "arnold": "C2"
+   },
+   "01.028.04": {
+      "arnold": "C2"
+   },
+   "01.028.05": {
+      "arnold": "C2"
+   },
+   "01.028.06": {
+      "arnold": "C2"
+   },
+   "01.030.16": {
+      "grassmann": "G"
+   },
+   "01.034.01": {
+      "grassmann": "G"
+   },
+   "01.034.02": {
+      "grassmann": "G"
+   },
+   "01.034.03": {
+      "grassmann": "G"
+   },
+   "01.034.04": {
+      "grassmann": "G"
+   },
+   "01.034.05": {
+      "grassmann": "G"
+   },
+   "01.034.06": {
+      "grassmann": "G"
+   },
+   "01.034.07": {
+      "grassmann": "G"
+   },
+   "01.034.08": {
+      "grassmann": "G"
+   },
+   "01.034.09": {
+      "grassmann": "G"
+   },
+   "01.034.10": {
+      "grassmann": "G"
+   },
+   "01.034.11": {
+      "grassmann": "G"
+   },
+   "01.034.12": {
+      "grassmann": "G"
+   },
+   "01.050.10": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "01.050.11": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "01.050.12": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "01.050.13": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "01.056.01": {
+      "grassmann": "G"
+   },
+   "01.056.02": {
+      "grassmann": "G"
+   },
+   "01.056.03": {
+      "grassmann": "G"
+   },
+   "01.056.04": {
+      "grassmann": "G"
+   },
+   "01.056.05": {
+      "grassmann": "G"
+   },
+   "01.056.06": {
+      "grassmann": "G"
+   },
+   "01.070.11": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "01.088.01": {
+      "grassmann": "G"
+   },
+   "01.088.02": {
+      "grassmann": "G"
+   },
+   "01.088.03": {
+      "grassmann": "G"
+   },
+   "01.088.04": {
+      "grassmann": "G"
+   },
+   "01.088.05": {
+      "grassmann": "G"
+   },
+   "01.088.06": {
+      "grassmann": "G"
+   },
+   "01.089.06": {
+      "grassmann": "G"
+   },
+   "01.090.09": {
+      "grassmann": "G"
+   },
+   "01.091.18": {
+      "arnold": "C1"
+   },
+   "01.091.19": {
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "01.091.20": {
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "01.091.21": {
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "01.091.22": {
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "01.091.23": {
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "01.093.01": {
+      "wuest": "w"
+   },
+   "01.093.02": {
+      "wuest": "w"
+   },
+   "01.093.03": {
+      "wuest": "w"
+   },
+   "01.093.04": {
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "W"
+   },
+   "01.093.05": {
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "W"
+   },
+   "01.093.06": {
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "W"
+   },
+   "01.093.07": {
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "W"
+   },
+   "01.093.08": {
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "W"
+   },
+   "01.093.09": {
+      "oldenberg": "o",
+      "wuest": "W"
+   },
+   "01.093.10": {
+      "oldenberg": "o",
+      "wuest": "W"
+   },
+   "01.093.11": {
+      "oldenberg": "o",
+      "wuest": "W"
+   },
+   "01.093.12": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "wuest": "W"
+   },
+   "01.100.16": {},
+   "01.100.17": {},
+   "01.100.18": {},
+   "01.100.19": {},
+   "01.104.01": {
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "01.104.02": {
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "01.104.03": {
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "01.104.04": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "01.104.05": {
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "01.104.06": {
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "01.104.07": {
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "01.104.08": {
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "01.104.09": {
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "01.105.08": {
+      "grassmann": "G"
+   },
+   "01.105.19": {
+      "grassmann": "G"
+   },
+   "01.106.07": {
+      "grassmann": "G"
+   },
+   "01.112.24": {
+      "grassmann": "G"
+   },
+   "01.112.25": {
+      "grassmann": "G"
+   },
+   "01.114.10": {
+      "grassmann": "G"
+   },
+   "01.114.11": {
+      "grassmann": "G"
+   },
+   "01.115.01": {
+      "arnold": "C1"
+   },
+   "01.115.02": {
+      "arnold": "C1"
+   },
+   "01.115.03": {
+      "arnold": "C1"
+   },
+   "01.115.04": {
+      "arnold": "C1"
+   },
+   "01.115.05": {
+      "arnold": "C1"
+   },
+   "01.115.06": {
+      "arnold": "C1"
+   },
+   "01.120.01": {
+      "grassmann": "G",
+      "oldenberg": "o"
+   },
+   "01.120.02": {
+      "grassmann": "G",
+      "oldenberg": "o"
+   },
+   "01.120.03": {
+      "grassmann": "G",
+      "oldenberg": "o"
+   },
+   "01.120.04": {
+      "grassmann": "G",
+      "oldenberg": "o"
+   },
+   "01.120.05": {
+      "grassmann": "G",
+      "oldenberg": "o"
+   },
+   "01.120.06": {
+      "grassmann": "G",
+      "oldenberg": "o"
+   },
+   "01.120.07": {
+      "grassmann": "G",
+      "oldenberg": "o"
+   },
+   "01.120.08": {
+      "grassmann": "G",
+      "oldenberg": "o"
+   },
+   "01.120.09": {
+      "grassmann": "G",
+      "oldenberg": "o"
+   },
+   "01.120.10": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "01.120.11": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "01.120.12": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "01.121.01": {
+      "grassmann": "G"
+   },
+   "01.121.02": {
+      "grassmann": "G"
+   },
+   "01.121.03": {
+      "grassmann": "G"
+   },
+   "01.121.04": {
+      "grassmann": "G"
+   },
+   "01.121.05": {
+      "grassmann": "G"
+   },
+   "01.121.06": {
+      "grassmann": "G"
+   },
+   "01.121.07": {
+      "grassmann": "G"
+   },
+   "01.122.07": {
+      "grassmann": "G"
+   },
+   "01.122.08": {
+      "grassmann": "G"
+   },
+   "01.122.09": {
+      "grassmann": "G"
+   },
+   "01.122.10": {
+      "grassmann": "G"
+   },
+   "01.122.11": {
+      "grassmann": "G"
+   },
+   "01.122.12": {
+      "grassmann": "G"
+   },
+   "01.122.13": {
+      "grassmann": "G"
+   },
+   "01.122.14": {
+      "grassmann": "G"
+   },
+   "01.122.15": {
+      "grassmann": "G"
+   },
+   "01.124.11": {
+      "grassmann": "G"
+   },
+   "01.124.12": {
+      "grassmann": "G"
+   },
+   "01.125.01": {
+      "grassmann": "G"
+   },
+   "01.125.02": {
+      "grassmann": "G"
+   },
+   "01.125.03": {
+      "grassmann": "G"
+   },
+   "01.125.04": {
+      "grassmann": "G",
+      "oldenberg": "o"
+   },
+   "01.125.05": {
+      "grassmann": "G",
+      "oldenberg": "o"
+   },
+   "01.125.06": {
+      "grassmann": "G",
+      "oldenberg": "o"
+   },
+   "01.125.07": {
+      "grassmann": "G",
+      "oldenberg": "o"
+   },
+   "01.126.01": {
+      "grassmann": "G"
+   },
+   "01.126.02": {
+      "grassmann": "G"
+   },
+   "01.126.03": {
+      "grassmann": "G"
+   },
+   "01.126.04": {
+      "grassmann": "G"
+   },
+   "01.126.05": {
+      "grassmann": "G"
+   },
+   "01.126.06": {
+      "grassmann": "G",
+      "oldenberg": "o"
+   },
+   "01.126.07": {
+      "grassmann": "G",
+      "oldenberg": "o"
+   },
+   "01.132.01": {
+      "grassmann": "G"
+   },
+   "01.132.02": {
+      "grassmann": "G"
+   },
+   "01.132.03": {
+      "grassmann": "G"
+   },
+   "01.132.04": {
+      "grassmann": "G"
+   },
+   "01.132.05": {
+      "grassmann": "G"
+   },
+   "01.132.06": {
+      "grassmann": "G"
+   },
+   "01.133.01": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "01.133.02": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "01.133.03": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "01.133.04": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "01.133.05": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "01.133.06": {
+      "grassmann": "G"
+   },
+   "01.133.07": {
+      "grassmann": "G"
+   },
+   "01.136.07": {
+      "grassmann": "G"
+   },
+   "01.139.01": {
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "01.139.02": {
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "01.139.03": {
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "01.139.04": {
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "01.139.05": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "01.139.06": {
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "01.139.07": {
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "01.139.08": {
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "01.139.09": {
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "01.139.10": {
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "01.139.11": {
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "01.158.06": {
+      "grassmann": "G"
+   },
+   "01.161.01": {
+      "arnold": "C1"
+   },
+   "01.161.02": {
+      "arnold": "C1"
+   },
+   "01.161.03": {
+      "arnold": "C1"
+   },
+   "01.161.04": {
+      "arnold": "C1"
+   },
+   "01.161.05": {
+      "arnold": "C1"
+   },
+   "01.161.06": {
+      "arnold": "C1"
+   },
+   "01.161.07": {
+      "arnold": "C1"
+   },
+   "01.161.08": {
+      "arnold": "C1"
+   },
+   "01.161.09": {
+      "arnold": "C1"
+   },
+   "01.161.10": {
+      "arnold": "C1"
+   },
+   "01.161.11": {
+      "arnold": "C1"
+   },
+   "01.161.12": {
+      "arnold": "C1"
+   },
+   "01.161.13": {
+      "arnold": "C1"
+   },
+   "01.161.14": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "01.162.01": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.162.02": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.162.03": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.162.04": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.162.05": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.162.06": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.162.07": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.162.08": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.162.09": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.162.10": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.162.11": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.162.12": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.162.13": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.162.14": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.162.15": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.162.16": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.162.17": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.162.18": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.162.19": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.162.20": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.162.21": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.162.22": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.163.01": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.163.02": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.163.03": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.163.04": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.163.05": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.163.06": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.163.07": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.163.08": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.163.09": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.163.10": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.163.11": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.163.12": {
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.163.13": {
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.01": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.02": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.03": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.04": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.05": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.06": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.07": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.08": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.09": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.10": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.11": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.12": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.13": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.14": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.15": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.16": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.17": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.18": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.19": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.20": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.21": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.22": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.23": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.24": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.25": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.26": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.27": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.28": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.29": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.30": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.31": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.32": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.33": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.34": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.35": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.36": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.37": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.38": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.39": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.40": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.41": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.42": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.43": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.44": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.45": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.46": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.47": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.48": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.49": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.50": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.51": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.164.52": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "01.170.01": {
+      "arnold": "C2"
+   },
+   "01.170.02": {
+      "arnold": "C2"
+   },
+   "01.170.03": {
+      "arnold": "C2"
+   },
+   "01.170.04": {
+      "arnold": "C2"
+   },
+   "01.170.05": {
+      "arnold": "C2"
+   },
+   "01.179.01": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W"
+   },
+   "01.179.02": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W"
+   },
+   "01.179.03": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W"
+   },
+   "01.179.04": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W"
+   },
+   "01.179.05": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W"
+   },
+   "01.179.06": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W"
+   },
+   "01.187.11": {
+      "grassmann": "G"
+   },
+   "01.188.01": {
+      "arnold": "C1"
+   },
+   "01.188.02": {
+      "arnold": "C1"
+   },
+   "01.188.03": {
+      "arnold": "C1"
+   },
+   "01.188.04": {
+      "arnold": "C1"
+   },
+   "01.188.05": {
+      "arnold": "C1"
+   },
+   "01.188.06": {
+      "arnold": "C1"
+   },
+   "01.188.07": {
+      "arnold": "C1"
+   },
+   "01.188.08": {
+      "arnold": "C1"
+   },
+   "01.188.09": {
+      "arnold": "C1"
+   },
+   "01.188.10": {
+      "arnold": "C1"
+   },
+   "01.188.11": {
+      "arnold": "C1"
+   },
+   "01.191.01": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "01.191.02": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "01.191.03": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "01.191.04": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "01.191.05": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "01.191.06": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "01.191.07": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "01.191.08": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "01.191.09": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "01.191.10": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "01.191.11": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "01.191.12": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "01.191.13": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "01.191.14": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "01.191.15": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "01.191.16": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "02.001.16": {
+      "grassmann": "G"
+   },
+   "02.012.01": {
+      "arnold": "C1"
+   },
+   "02.012.02": {},
+   "02.012.03": {},
+   "02.012.04": {},
+   "02.012.05": {},
+   "02.012.06": {},
+   "02.012.07": {},
+   "02.012.08": {},
+   "02.012.09": {},
+   "02.012.10": {},
+   "02.012.11": {},
+   "02.012.12": {},
+   "02.012.13": {},
+   "02.012.14": {},
+   "02.012.15": {
+      "grassmann": "G"
+   },
+   "02.013.13": {
+      "grassmann": "G"
+   },
+   "02.023.06": {
+      "witzel": "Z"
+   },
+   "02.023.07": {
+      "witzel": "Z"
+   },
+   "02.023.08": {
+      "witzel": "Z"
+   },
+   "02.023.19": {
+      "grassmann": "G"
+   },
+   "02.024.12": {
+      "grassmann": "G"
+   },
+   "02.032.04": {
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "w"
+   },
+   "02.032.05": {
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "w"
+   },
+   "02.032.06": {
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W"
+   },
+   "02.032.07": {
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W"
+   },
+   "02.032.08": {
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W"
+   },
+   "02.035.15": {
+      "grassmann": "G"
+   },
+   "02.038.10": {
+      "grassmann": "G"
+   },
+   "02.038.11": {
+      "grassmann": "G"
+   },
+   "02.039.01": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "02.039.02": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "02.039.03": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "02.039.04": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "02.039.05": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "02.039.06": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "02.039.07": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "02.039.08": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "02.040.01": {
+      "arnold": "C1"
+   },
+   "02.040.02": {
+      "arnold": "C1"
+   },
+   "02.040.03": {
+      "arnold": "C1"
+   },
+   "02.040.04": {
+      "arnold": "C1"
+   },
+   "02.040.05": {
+      "arnold": "C1"
+   },
+   "02.040.06": {
+      "arnold": "C1"
+   },
+   "02.041.19": {
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "02.041.20": {
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "02.041.21": {
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "02.042.01": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "02.042.02": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "02.042.03": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "02.043.01": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "02.043.02": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "02.043.03": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.002.07": {
+      "grassmann": "G"
+   },
+   "03.007.01": {
+      "grassmann": "G"
+   },
+   "03.007.02": {
+      "grassmann": "G"
+   },
+   "03.007.03": {
+      "grassmann": "G"
+   },
+   "03.007.04": {
+      "grassmann": "G"
+   },
+   "03.007.05": {
+      "grassmann": "G"
+   },
+   "03.007.06": {
+      "grassmann": "G"
+   },
+   "03.007.07": {
+      "grassmann": "G"
+   },
+   "03.007.08": {
+      "grassmann": "G"
+   },
+   "03.007.09": {
+      "grassmann": "G"
+   },
+   "03.007.10": {
+      "grassmann": "G"
+   },
+   "03.007.11": {
+      "grassmann": "G"
+   },
+   "03.008.01": {
+      "arnold": "C1"
+   },
+   "03.008.02": {
+      "arnold": "C1"
+   },
+   "03.008.03": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "03.008.04": {
+      "arnold": "C1"
+   },
+   "03.008.05": {
+      "arnold": "C1"
+   },
+   "03.008.06": {
+      "arnold": "C1"
+   },
+   "03.008.07": {
+      "arnold": "C1"
+   },
+   "03.008.08": {
+      "arnold": "C1"
+   },
+   "03.008.09": {
+      "arnold": "C1"
+   },
+   "03.008.10": {
+      "arnold": "C1"
+   },
+   "03.008.11": {
+      "arnold": "C1"
+   },
+   "03.009.09": {
+      "grassmann": "G"
+   },
+   "03.021.01": {
+      "grassmann": "G"
+   },
+   "03.021.02": {
+      "grassmann": "G"
+   },
+   "03.021.03": {
+      "grassmann": "G"
+   },
+   "03.021.04": {
+      "grassmann": "G"
+   },
+   "03.021.05": {
+      "grassmann": "G"
+   },
+   "03.022.04": {
+      "grassmann": "G"
+   },
+   "03.023.03": {
+      "grassmann": "G"
+   },
+   "03.028.01": {
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.028.02": {
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.028.03": {
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.028.04": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.028.05": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.028.06": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.029.01": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.029.02": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.029.03": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.029.04": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.029.05": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.029.06": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.029.07": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.029.08": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.029.09": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.029.10": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.029.11": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.029.12": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.029.13": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.029.14": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.029.15": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.029.16": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.031.01": {
+      "grassmann": "G"
+   },
+   "03.031.02": {
+      "grassmann": "G"
+   },
+   "03.031.03": {
+      "grassmann": "G"
+   },
+   "03.031.04": {
+      "grassmann": "G"
+   },
+   "03.031.05": {
+      "grassmann": "G"
+   },
+   "03.031.06": {
+      "grassmann": "G"
+   },
+   "03.031.07": {
+      "grassmann": "G"
+   },
+   "03.031.08": {
+      "grassmann": "G"
+   },
+   "03.031.09": {
+      "grassmann": "G"
+   },
+   "03.031.10": {
+      "grassmann": "G"
+   },
+   "03.031.11": {
+      "grassmann": "G"
+   },
+   "03.031.12": {
+      "grassmann": "G"
+   },
+   "03.031.13": {
+      "grassmann": "G"
+   },
+   "03.031.14": {
+      "grassmann": "G"
+   },
+   "03.031.15": {
+      "grassmann": "G"
+   },
+   "03.031.16": {
+      "grassmann": "G"
+   },
+   "03.031.17": {
+      "grassmann": "G"
+   },
+   "03.031.18": {
+      "grassmann": "G"
+   },
+   "03.031.19": {
+      "grassmann": "G"
+   },
+   "03.031.20": {
+      "grassmann": "G"
+   },
+   "03.031.21": {
+      "grassmann": "G"
+   },
+   "03.031.22": {
+      "grassmann": "G"
+   },
+   "03.033.01": {
+      "arnold": "C1"
+   },
+   "03.033.02": {
+      "arnold": "C1"
+   },
+   "03.033.03": {
+      "arnold": "C1"
+   },
+   "03.033.04": {
+      "arnold": "C1"
+   },
+   "03.033.05": {
+      "arnold": "C1"
+   },
+   "03.033.06": {
+      "arnold": "C1"
+   },
+   "03.033.07": {
+      "arnold": "C1"
+   },
+   "03.033.08": {
+      "arnold": "C1"
+   },
+   "03.033.09": {
+      "arnold": "C1"
+   },
+   "03.033.10": {
+      "arnold": "C1"
+   },
+   "03.033.11": {
+      "arnold": "C1"
+   },
+   "03.033.12": {
+      "arnold": "C1"
+   },
+   "03.033.13": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "03.038.01": {
+      "grassmann": "G"
+   },
+   "03.038.02": {
+      "grassmann": "G"
+   },
+   "03.038.03": {
+      "grassmann": "G"
+   },
+   "03.038.04": {
+      "grassmann": "G"
+   },
+   "03.038.05": {
+      "grassmann": "G"
+   },
+   "03.038.06": {
+      "grassmann": "G"
+   },
+   "03.038.07": {
+      "grassmann": "G"
+   },
+   "03.038.08": {
+      "grassmann": "G"
+   },
+   "03.038.09": {
+      "grassmann": "G"
+   },
+   "03.038.10": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "03.052.01": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.052.02": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.052.03": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.052.04": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.052.05": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.052.06": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.052.07": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.052.08": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.053.01": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.053.02": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.053.03": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.053.04": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.053.05": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.053.06": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.053.07": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.053.08": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.053.09": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.053.10": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.053.11": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.053.12": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.053.13": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.053.14": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.053.15": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.053.16": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.053.17": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.053.18": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.053.19": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.053.20": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.053.21": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.053.22": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.053.23": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "03.053.24": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "04.005.01": {
+      "grassmann": "G"
+   },
+   "04.005.02": {
+      "grassmann": "G"
+   },
+   "04.005.03": {
+      "grassmann": "G"
+   },
+   "04.005.04": {
+      "grassmann": "G"
+   },
+   "04.005.05": {
+      "grassmann": "G"
+   },
+   "04.005.06": {
+      "grassmann": "G"
+   },
+   "04.005.07": {
+      "grassmann": "G"
+   },
+   "04.005.08": {
+      "grassmann": "G"
+   },
+   "04.005.09": {
+      "grassmann": "G"
+   },
+   "04.005.10": {
+      "grassmann": "G"
+   },
+   "04.005.11": {
+      "grassmann": "G"
+   },
+   "04.005.12": {
+      "grassmann": "G"
+   },
+   "04.005.13": {
+      "grassmann": "G"
+   },
+   "04.005.14": {
+      "grassmann": "G"
+   },
+   "04.005.15": {
+      "grassmann": "G"
+   },
+   "04.013.01": {
+      "arnold": "C1"
+   },
+   "04.013.02": {
+      "arnold": "C1"
+   },
+   "04.013.03": {
+      "arnold": "C1"
+   },
+   "04.013.04": {
+      "arnold": "C1"
+   },
+   "04.013.05": {
+      "arnold": "C1"
+   },
+   "04.015.01": {
+      "grassmann": "G"
+   },
+   "04.015.02": {
+      "grassmann": "G"
+   },
+   "04.015.03": {
+      "grassmann": "G"
+   },
+   "04.015.04": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "04.015.05": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "04.015.06": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "04.015.07": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "04.015.08": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "04.015.09": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "04.015.10": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "04.017.15": {
+      "grassmann": "G"
+   },
+   "04.018.01": {
+      "arnold": "C1"
+   },
+   "04.018.02": {
+      "arnold": "C1"
+   },
+   "04.018.03": {
+      "arnold": "C1"
+   },
+   "04.018.04": {
+      "arnold": "C1"
+   },
+   "04.018.05": {
+      "arnold": "C1"
+   },
+   "04.018.06": {
+      "arnold": "C1"
+   },
+   "04.018.07": {
+      "arnold": "C1"
+   },
+   "04.018.08": {
+      "arnold": "C1"
+   },
+   "04.018.09": {
+      "arnold": "C1"
+   },
+   "04.018.10": {
+      "arnold": "C1"
+   },
+   "04.018.11": {
+      "arnold": "C1"
+   },
+   "04.018.12": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "04.018.13": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "04.024.09": {
+      "grassmann": "G"
+   },
+   "04.024.10": {
+      "grassmann": "G"
+   },
+   "04.024.11": {
+      "grassmann": "G"
+   },
+   "04.030.24": {
+      "grassmann": "G"
+   },
+   "04.036.09": {
+      "grassmann": "G"
+   },
+   "04.040.01": {
+      "grassmann": "G"
+   },
+   "04.042.08": {
+      "grassmann": "G"
+   },
+   "04.042.09": {
+      "grassmann": "G"
+   },
+   "04.042.10": {
+      "grassmann": "G"
+   },
+   "04.048.01": {
+      "oldenberg": "o",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "04.048.02": {
+      "oldenberg": "o",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "04.048.03": {
+      "oldenberg": "o",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "04.048.04": {
+      "oldenberg": "o",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "04.048.05": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "04.050.07": {
+      "grassmann": "G",
+      "wuest": "w"
+   },
+   "04.050.08": {
+      "grassmann": "G",
+      "wuest": "w"
+   },
+   "04.050.09": {
+      "grassmann": "G",
+      "wuest": "w"
+   },
+   "04.050.10": {
+      "grassmann": "G"
+   },
+   "04.050.11": {
+      "grassmann": "G"
+   },
+   "04.054.06": {
+      "grassmann": "G"
+   },
+   "04.055.06": {
+      "grassmann": "G"
+   },
+   "04.055.07": {
+      "grassmann": "G"
+   },
+   "04.055.08": {
+      "grassmann": "G"
+   },
+   "04.055.09": {
+      "grassmann": "G"
+   },
+   "04.055.10": {
+      "grassmann": "G"
+   },
+   "04.055.11": {
+      "grassmann": "G"
+   },
+   "04.057.01": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1"
+   },
+   "04.057.02": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1"
+   },
+   "04.057.03": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1"
+   },
+   "04.057.04": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "04.057.05": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "04.057.06": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "04.057.07": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "04.057.08": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "04.058.01": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "04.058.02": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "04.058.03": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "04.058.04": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "04.058.05": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "04.058.06": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "04.058.07": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "04.058.08": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "04.058.09": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "04.058.10": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "04.058.11": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.002.12": {
+      "grassmann": "G"
+   },
+   "05.003.03": {
+      "grassmann": "G"
+   },
+   "05.006.02": {
+      "grassmann": "G"
+   },
+   "05.007.10": {
+      "grassmann": "G"
+   },
+   "05.019.01": {
+      "grassmann": "G"
+   },
+   "05.019.02": {
+      "grassmann": "G"
+   },
+   "05.019.03": {
+      "grassmann": "G"
+   },
+   "05.019.04": {
+      "grassmann": "G"
+   },
+   "05.019.05": {
+      "grassmann": "G"
+   },
+   "05.027.01": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.027.02": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.027.03": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.027.04": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.027.05": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.027.06": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.028.01": {
+      "oldenberg": "o",
+      "wuest": "W"
+   },
+   "05.028.02": {
+      "oldenberg": "o",
+      "wuest": "W"
+   },
+   "05.028.03": {
+      "oldenberg": "o",
+      "wuest": "W"
+   },
+   "05.028.04": {
+      "oldenberg": "o",
+      "wuest": "W"
+   },
+   "05.028.05": {
+      "oldenberg": "o",
+      "wuest": "W"
+   },
+   "05.028.06": {
+      "oldenberg": "o",
+      "wuest": "W"
+   },
+   "05.033.08": {
+      "grassmann": "G"
+   },
+   "05.033.09": {
+      "grassmann": "G"
+   },
+   "05.033.10": {
+      "grassmann": "G"
+   },
+   "05.034.09": {
+      "grassmann": "G"
+   },
+   "05.036.06": {
+      "grassmann": "G"
+   },
+   "05.040.01": {
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "05.040.02": {
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "05.040.03": {
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "05.040.04": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "wuest": "W"
+   },
+   "05.040.05": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.040.06": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.040.07": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.040.08": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.040.09": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.042.11": {
+      "wuest": "w"
+   },
+   "05.042.16": {
+      "grassmann": "G"
+   },
+   "05.042.17": {
+      "grassmann": "G"
+   },
+   "05.044.01": {
+      "grassmann": "G"
+   },
+   "05.044.02": {
+      "grassmann": "G"
+   },
+   "05.044.03": {
+      "grassmann": "G"
+   },
+   "05.044.04": {
+      "grassmann": "G"
+   },
+   "05.044.05": {
+      "grassmann": "G"
+   },
+   "05.044.06": {
+      "grassmann": "G"
+   },
+   "05.044.07": {
+      "grassmann": "G"
+   },
+   "05.044.08": {
+      "grassmann": "G"
+   },
+   "05.044.09": {
+      "grassmann": "G"
+   },
+   "05.044.10": {
+      "grassmann": "G"
+   },
+   "05.044.11": {
+      "grassmann": "G"
+   },
+   "05.044.12": {
+      "grassmann": "G"
+   },
+   "05.044.13": {
+      "grassmann": "G"
+   },
+   "05.044.14": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "05.044.15": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "05.046.02": {
+      "grassmann": "G"
+   },
+   "05.051.11": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.051.12": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.051.13": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.051.14": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.051.15": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.052.17": {
+      "grassmann": "G"
+   },
+   "05.054.14": {
+      "grassmann": "G"
+   },
+   "05.055.10": {
+      "grassmann": "G"
+   },
+   "05.061.01": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "05.061.02": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "05.061.03": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "05.061.04": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "05.061.05": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.061.06": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.061.07": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.061.08": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.061.09": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.061.10": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.061.11": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.061.12": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.061.13": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.061.14": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.061.15": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.061.16": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.061.17": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.061.18": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.061.19": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.062.01": {
+      "arnold": "C1"
+   },
+   "05.062.02": {
+      "arnold": "C1"
+   },
+   "05.062.03": {
+      "arnold": "C1"
+   },
+   "05.062.04": {
+      "arnold": "C1"
+   },
+   "05.062.05": {
+      "arnold": "C1"
+   },
+   "05.062.06": {
+      "arnold": "C1"
+   },
+   "05.062.07": {
+      "arnold": "C1"
+   },
+   "05.062.08": {
+      "arnold": "C1"
+   },
+   "05.062.09": {
+      "arnold": "C1"
+   },
+   "05.064.07": {
+      "grassmann": "G"
+   },
+   "05.066.05": {
+      "grassmann": "G"
+   },
+   "05.078.04": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "05.078.05": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.078.06": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.078.07": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.078.08": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.078.09": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "05.079.10": {
+      "grassmann": "G"
+   },
+   "05.083.01": {
+      "arnold": "C1"
+   },
+   "05.083.02": {
+      "arnold": "C1"
+   },
+   "05.083.03": {
+      "arnold": "C1"
+   },
+   "05.083.04": {
+      "arnold": "C1"
+   },
+   "05.083.05": {
+      "arnold": "C1"
+   },
+   "05.083.06": {
+      "arnold": "C1"
+   },
+   "05.083.07": {
+      "arnold": "C1"
+   },
+   "05.083.08": {
+      "arnold": "C1"
+   },
+   "05.083.09": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "05.083.10": {
+      "arnold": "C1"
+   },
+   "05.087.01": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "05.087.02": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "05.087.03": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "05.087.04": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "05.087.05": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "05.087.06": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "05.087.07": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "05.087.08": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "05.087.09": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "06.002.11": {
+      "grassmann": "G"
+   },
+   "06.009.01": {
+      "arnold": "C1"
+   },
+   "06.009.02": {
+      "arnold": "C1"
+   },
+   "06.009.03": {
+      "arnold": "C1"
+   },
+   "06.009.04": {
+      "arnold": "C1"
+   },
+   "06.009.05": {
+      "arnold": "C1"
+   },
+   "06.009.06": {
+      "arnold": "C1"
+   },
+   "06.009.07": {
+      "arnold": "C1"
+   },
+   "06.010.07": {
+      "grassmann": "G"
+   },
+   "06.015.16": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "06.015.17": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "06.015.18": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "06.015.19": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "06.016.46": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "06.016.47": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "06.016.48": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "06.017.15": {
+      "grassmann": "G"
+   },
+   "06.019.11": {
+      "grassmann": "G"
+   },
+   "06.027.08": {
+      "grassmann": "G"
+   },
+   "06.028.01": {
+      "arnold": "C1"
+   },
+   "06.028.02": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "06.028.03": {
+      "arnold": "C1"
+   },
+   "06.028.04": {
+      "arnold": "C1"
+   },
+   "06.028.05": {
+      "arnold": "C1"
+   },
+   "06.028.06": {
+      "arnold": "C1"
+   },
+   "06.028.07": {
+      "arnold": "C1"
+   },
+   "06.028.08": {
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "W"
+   },
+   "06.045.31": {
+      "grassmann": "G"
+   },
+   "06.045.32": {
+      "grassmann": "G"
+   },
+   "06.045.33": {
+      "grassmann": "G"
+   },
+   "06.047.01": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.047.02": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.047.03": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.047.04": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.047.05": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.047.06": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.047.07": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.047.08": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.047.09": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.047.10": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.047.11": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.047.12": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.047.13": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.047.14": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.047.15": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.047.16": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.047.17": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.047.18": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.047.19": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.047.20": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.047.21": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.047.22": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.047.23": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.047.24": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.047.25": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.047.26": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.047.27": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.047.28": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.047.29": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.047.30": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.047.31": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.048.13": {
+      "grassmann": "G"
+   },
+   "06.048.22": {
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W"
+   },
+   "06.050.12": {
+      "grassmann": "G",
+      "wuest": "W"
+   },
+   "06.050.13": {
+      "grassmann": "G",
+      "wuest": "W"
+   },
+   "06.050.14": {
+      "grassmann": "G",
+      "wuest": "W"
+   },
+   "06.050.15": {
+      "grassmann": "G",
+      "wuest": "W"
+   },
+   "06.052.13": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.052.14": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.052.15": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.052.16": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.052.17": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.059.06": {
+      "grassmann": "G"
+   },
+   "06.060.13": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "06.060.14": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "06.060.15": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "06.061.13": {
+      "grassmann": "G"
+   },
+   "06.062.08": {
+      "grassmann": "G"
+   },
+   "06.063.09": {
+      "grassmann": "G"
+   },
+   "06.063.10": {
+      "grassmann": "G"
+   },
+   "06.063.11": {
+      "grassmann": "G"
+   },
+   "06.068.09": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "06.068.10": {
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "06.068.11": {
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "06.074.01": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.074.02": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.074.03": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.074.04": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.075.01": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.075.02": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.075.03": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.075.04": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.075.05": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.075.06": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.075.07": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.075.08": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.075.09": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.075.10": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.075.11": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.075.12": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.075.13": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.075.14": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.075.15": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.075.16": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.075.17": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.075.18": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "06.075.19": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.001.21": {
+      "grassmann": "G"
+   },
+   "07.001.22": {
+      "grassmann": "G"
+   },
+   "07.001.23": {
+      "grassmann": "G"
+   },
+   "07.001.24": {
+      "grassmann": "G"
+   },
+   "07.001.25": {
+      "grassmann": "G"
+   },
+   "07.017.01": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.017.02": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.017.03": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.017.04": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.017.05": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.017.06": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.017.07": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.018.22": {
+      "grassmann": "G"
+   },
+   "07.018.23": {
+      "grassmann": "G"
+   },
+   "07.018.24": {
+      "grassmann": "G"
+   },
+   "07.018.25": {
+      "grassmann": "G"
+   },
+   "07.033.01": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.033.02": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.033.03": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.033.04": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.033.05": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.033.06": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.033.07": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.033.08": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.033.09": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.033.10": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.033.11": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.033.12": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.033.13": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.033.14": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.034.22": {
+      "grassmann": "G"
+   },
+   "07.034.23": {
+      "grassmann": "G"
+   },
+   "07.034.24": {
+      "grassmann": "G"
+   },
+   "07.034.25": {
+      "grassmann": "G"
+   },
+   "07.035.15": {
+      "grassmann": "G"
+   },
+   "07.038.07": {
+      "grassmann": "G"
+   },
+   "07.044.01": {
+      "arnold": "C1"
+   },
+   "07.044.02": {
+      "arnold": "C1"
+   },
+   "07.044.03": {
+      "arnold": "C1"
+   },
+   "07.044.04": {
+      "arnold": "C1"
+   },
+   "07.044.05": {
+      "arnold": "C1"
+   },
+   "07.050.01": {
+      "arnold": "C2"
+   },
+   "07.050.02": {
+      "arnold": "C2"
+   },
+   "07.050.03": {
+      "arnold": "C2"
+   },
+   "07.050.04": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "07.054.01": {
+      "wuest": "w"
+   },
+   "07.054.02": {
+      "wuest": "w"
+   },
+   "07.054.03": {
+      "wuest": "w"
+   },
+   "07.055.01": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.055.02": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.055.03": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.055.04": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.055.05": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.055.06": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.055.07": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.055.08": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.056.11": {
+      "grassmann": "G"
+   },
+   "07.057.07": {
+      "grassmann": "G"
+   },
+   "07.059.07": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "07.059.08": {
+      "oldenberg": "o",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "07.059.09": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.059.10": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.059.11": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.059.12": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.066.16": {
+      "grassmann": "G"
+   },
+   "07.066.17": {
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "07.066.18": {
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "07.066.19": {
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "07.074.05": {
+      "grassmann": "G"
+   },
+   "07.083.09": {
+      "grassmann": "G"
+   },
+   "07.089.01": {
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "07.089.02": {
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "07.089.03": {
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "07.089.04": {
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "07.089.05": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "07.093.07": {
+      "grassmann": "G"
+   },
+   "07.097.10": {
+      "grassmann": "G"
+   },
+   "07.101.01": {
+      "arnold": "C1"
+   },
+   "07.101.02": {
+      "arnold": "C1"
+   },
+   "07.101.03": {
+      "arnold": "C1"
+   },
+   "07.101.04": {
+      "arnold": "C1"
+   },
+   "07.101.05": {
+      "arnold": "C1"
+   },
+   "07.101.06": {
+      "arnold": "C1"
+   },
+   "07.102.01": {
+      "arnold": "C1"
+   },
+   "07.102.02": {
+      "arnold": "C1"
+   },
+   "07.102.03": {
+      "arnold": "C1"
+   },
+   "07.103.01": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.103.02": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.103.03": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.103.04": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.103.05": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.103.06": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.103.07": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.103.08": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.103.09": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.103.10": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "07.104.01": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "07.104.02": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "07.104.03": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "07.104.04": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "07.104.05": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "07.104.06": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "07.104.07": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "07.104.08": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "07.104.09": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "07.104.10": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "07.104.11": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "07.104.12": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "07.104.13": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "07.104.14": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "07.104.15": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "07.104.16": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "07.104.17": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "07.104.18": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "07.104.19": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "07.104.20": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "07.104.21": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "07.104.22": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "07.104.23": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "07.104.24": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "07.104.25": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "08.001.30": {
+      "grassmann": "G"
+   },
+   "08.001.31": {
+      "grassmann": "G"
+   },
+   "08.001.32": {
+      "grassmann": "G"
+   },
+   "08.001.33": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "08.001.34": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "08.002.40": {
+      "grassmann": "G"
+   },
+   "08.002.41": {
+      "grassmann": "G"
+   },
+   "08.002.42": {
+      "grassmann": "G"
+   },
+   "08.003.21": {
+      "grassmann": "G"
+   },
+   "08.003.22": {
+      "grassmann": "G"
+   },
+   "08.003.23": {
+      "grassmann": "G"
+   },
+   "08.003.24": {
+      "grassmann": "G"
+   },
+   "08.004.19": {
+      "grassmann": "G"
+   },
+   "08.004.20": {
+      "grassmann": "G"
+   },
+   "08.004.21": {
+      "grassmann": "G"
+   },
+   "08.005.01": {
+      "witzel": "Z"
+   },
+   "08.005.02": {
+      "witzel": "Z"
+   },
+   "08.005.03": {
+      "witzel": "Z"
+   },
+   "08.005.04": {
+      "witzel": "Z"
+   },
+   "08.005.05": {
+      "witzel": "Z"
+   },
+   "08.005.06": {
+      "witzel": "Z"
+   },
+   "08.005.07": {
+      "witzel": "Z"
+   },
+   "08.005.08": {
+      "witzel": "Z"
+   },
+   "08.005.09": {
+      "witzel": "Z"
+   },
+   "08.005.10": {
+      "witzel": "Z"
+   },
+   "08.005.11": {
+      "witzel": "Z"
+   },
+   "08.005.12": {
+      "witzel": "Z"
+   },
+   "08.005.13": {
+      "witzel": "Z"
+   },
+   "08.005.14": {
+      "witzel": "Z"
+   },
+   "08.005.15": {
+      "witzel": "Z"
+   },
+   "08.005.16": {
+      "witzel": "Z"
+   },
+   "08.005.17": {
+      "witzel": "Z"
+   },
+   "08.005.18": {
+      "witzel": "Z"
+   },
+   "08.005.19": {
+      "witzel": "Z"
+   },
+   "08.005.20": {
+      "witzel": "Z"
+   },
+   "08.005.21": {
+      "witzel": "Z"
+   },
+   "08.005.22": {
+      "witzel": "Z"
+   },
+   "08.005.23": {
+      "witzel": "Z"
+   },
+   "08.005.24": {
+      "witzel": "Z"
+   },
+   "08.005.25": {
+      "witzel": "Z"
+   },
+   "08.005.26": {
+      "witzel": "Z"
+   },
+   "08.005.27": {
+      "witzel": "Z"
+   },
+   "08.005.28": {
+      "witzel": "Z"
+   },
+   "08.005.29": {
+      "witzel": "Z"
+   },
+   "08.005.30": {
+      "witzel": "Z"
+   },
+   "08.005.31": {
+      "witzel": "Z"
+   },
+   "08.005.32": {
+      "witzel": "Z"
+   },
+   "08.005.33": {
+      "witzel": "Z"
+   },
+   "08.005.34": {
+      "witzel": "Z"
+   },
+   "08.005.35": {
+      "witzel": "Z"
+   },
+   "08.005.36": {
+      "witzel": "Z"
+   },
+   "08.005.37": {
+      "grassmann": "G",
+      "witzel": "Z"
+   },
+   "08.005.38": {
+      "grassmann": "G",
+      "witzel": "Z"
+   },
+   "08.005.39": {
+      "grassmann": "G",
+      "witzel": "Z"
+   },
+   "08.006.46": {
+      "grassmann": "G"
+   },
+   "08.006.47": {
+      "grassmann": "G"
+   },
+   "08.006.48": {
+      "grassmann": "G"
+   },
+   "08.008.16": {
+      "grassmann": "G"
+   },
+   "08.009.10": {
+      "grassmann": "G"
+   },
+   "08.009.11": {
+      "grassmann": "G"
+   },
+   "08.009.12": {
+      "grassmann": "G"
+   },
+   "08.011.10": {
+      "grassmann": "G"
+   },
+   "08.013.31": {
+      "wuest": "w"
+   },
+   "08.013.32": {
+      "wuest": "w"
+   },
+   "08.013.33": {
+      "wuest": "w"
+   },
+   "08.015.13": {
+      "grassmann": "G"
+   },
+   "08.017.13": {
+      "grassmann": "G"
+   },
+   "08.017.14": {
+      "grassmann": "G"
+   },
+   "08.017.15": {
+      "grassmann": "G"
+   },
+   "08.018.21": {
+      "grassmann": "G"
+   },
+   "08.019.27": {
+      "grassmann": "G"
+   },
+   "08.021.17": {
+      "grassmann": "G"
+   },
+   "08.022.08": {
+      "grassmann": "G"
+   },
+   "08.023.28": {
+      "grassmann": "G"
+   },
+   "08.023.29": {
+      "grassmann": "G"
+   },
+   "08.023.30": {
+      "grassmann": "G"
+   },
+   "08.024.28": {
+      "grassmann": "G"
+   },
+   "08.024.29": {
+      "grassmann": "G"
+   },
+   "08.024.30": {
+      "grassmann": "G"
+   },
+   "08.025.22": {
+      "grassmann": "G"
+   },
+   "08.025.23": {
+      "grassmann": "G"
+   },
+   "08.025.24": {
+      "grassmann": "G"
+   },
+   "08.031.01": {
+      "arnold": "C1"
+   },
+   "08.031.02": {
+      "arnold": "C1"
+   },
+   "08.031.03": {
+      "arnold": "C1"
+   },
+   "08.031.04": {
+      "arnold": "C1"
+   },
+   "08.031.14": {
+      "grassmann": "G"
+   },
+   "08.033.16": {
+      "arnold": "C1"
+   },
+   "08.033.17": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "08.033.18": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "08.033.19": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "08.034.16": {
+      "grassmann": "G"
+   },
+   "08.034.17": {
+      "grassmann": "G"
+   },
+   "08.034.18": {
+      "grassmann": "G"
+   },
+   "08.036.07": {
+      "grassmann": "G"
+   },
+   "08.037.07": {
+      "grassmann": "G"
+   },
+   "08.038.10": {
+      "grassmann": "G"
+   },
+   "08.040.12": {
+      "grassmann": "G"
+   },
+   "08.046.29": {
+      "grassmann": "G"
+   },
+   "08.046.30": {
+      "grassmann": "G"
+   },
+   "08.046.31": {
+      "grassmann": "G"
+   },
+   "08.046.32": {
+      "grassmann": "G"
+   },
+   "08.046.33": {
+      "grassmann": "G"
+   },
+   "08.047.13": {
+      "oldenberg": "o",
+      "wuest": "W"
+   },
+   "08.047.14": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "08.047.15": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "08.047.16": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "08.047.17": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "08.047.18": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "08.051.01": {
+      "grassmann": "G"
+   },
+   "08.051.02": {
+      "grassmann": "G"
+   },
+   "08.051.03": {
+      "grassmann": "G"
+   },
+   "08.051.04": {
+      "grassmann": "G"
+   },
+   "08.051.05": {
+      "grassmann": "G"
+   },
+   "08.051.06": {
+      "grassmann": "G"
+   },
+   "08.051.07": {
+      "grassmann": "G"
+   },
+   "08.051.08": {
+      "grassmann": "G"
+   },
+   "08.051.09": {
+      "grassmann": "G"
+   },
+   "08.051.10": {
+      "grassmann": "G"
+   },
+   "08.052.01": {
+      "grassmann": "G"
+   },
+   "08.052.02": {
+      "grassmann": "G"
+   },
+   "08.052.03": {
+      "grassmann": "G"
+   },
+   "08.052.04": {
+      "grassmann": "G"
+   },
+   "08.052.05": {
+      "grassmann": "G"
+   },
+   "08.052.06": {
+      "grassmann": "G"
+   },
+   "08.052.07": {
+      "grassmann": "G"
+   },
+   "08.052.08": {
+      "grassmann": "G"
+   },
+   "08.052.09": {
+      "grassmann": "G"
+   },
+   "08.052.10": {
+      "grassmann": "G"
+   },
+   "08.055.01": {
+      "grassmann": "G"
+   },
+   "08.055.02": {
+      "grassmann": "G"
+   },
+   "08.055.03": {
+      "grassmann": "G"
+   },
+   "08.055.04": {
+      "grassmann": "G"
+   },
+   "08.055.05": {
+      "grassmann": "G"
+   },
+   "08.056.01": {
+      "grassmann": "G"
+   },
+   "08.056.02": {
+      "grassmann": "G"
+   },
+   "08.056.03": {
+      "grassmann": "G"
+   },
+   "08.056.04": {
+      "grassmann": "G"
+   },
+   "08.056.05": {
+      "grassmann": "G"
+   },
+   "08.058.01": {
+      "arnold": "C2"
+   },
+   "08.058.02": {
+      "arnold": "C2"
+   },
+   "08.058.03": {
+      "arnold": "C2"
+   },
+   "08.059.01": {
+      "arnold": "C1"
+   },
+   "08.059.02": {
+      "arnold": "C1"
+   },
+   "08.059.03": {
+      "arnold": "C1"
+   },
+   "08.059.04": {
+      "arnold": "C1"
+   },
+   "08.059.05": {
+      "arnold": "C1"
+   },
+   "08.059.06": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "08.059.07": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "08.063.12": {
+      "grassmann": "G"
+   },
+   "08.065.10": {
+      "grassmann": "G"
+   },
+   "08.065.11": {
+      "grassmann": "G"
+   },
+   "08.065.12": {
+      "grassmann": "G"
+   },
+   "08.066.01": {
+      "witzel": "z"
+   },
+   "08.066.02": {
+      "witzel": "z"
+   },
+   "08.066.03": {
+      "witzel": "z"
+   },
+   "08.066.04": {
+      "witzel": "z"
+   },
+   "08.066.05": {
+      "witzel": "z"
+   },
+   "08.066.06": {
+      "witzel": "z"
+   },
+   "08.066.07": {
+      "witzel": "z"
+   },
+   "08.066.08": {
+      "witzel": "z"
+   },
+   "08.066.09": {
+      "witzel": "z"
+   },
+   "08.066.10": {
+      "witzel": "z"
+   },
+   "08.066.11": {
+      "witzel": "z"
+   },
+   "08.066.12": {
+      "witzel": "z"
+   },
+   "08.066.13": {
+      "witzel": "z"
+   },
+   "08.066.14": {
+      "witzel": "z"
+   },
+   "08.066.15": {
+      "witzel": "z"
+   },
+   "08.068.13": {
+      "grassmann": "G"
+   },
+   "08.068.14": {
+      "grassmann": "G"
+   },
+   "08.068.15": {
+      "grassmann": "G"
+   },
+   "08.068.16": {
+      "grassmann": "G"
+   },
+   "08.068.17": {
+      "grassmann": "G"
+   },
+   "08.068.18": {
+      "grassmann": "G"
+   },
+   "08.068.19": {
+      "grassmann": "G"
+   },
+   "08.069.16": {
+      "grassmann": "G"
+   },
+   "08.069.17": {
+      "grassmann": "G"
+   },
+   "08.069.18": {
+      "grassmann": "G"
+   },
+   "08.070.13": {
+      "grassmann": "G"
+   },
+   "08.070.14": {
+      "grassmann": "G"
+   },
+   "08.070.15": {
+      "grassmann": "G"
+   },
+   "08.073.16": {
+      "grassmann": "G"
+   },
+   "08.073.17": {
+      "grassmann": "G"
+   },
+   "08.073.18": {
+      "grassmann": "G"
+   },
+   "08.074.13": {
+      "grassmann": "G"
+   },
+   "08.074.14": {
+      "grassmann": "G"
+   },
+   "08.074.15": {
+      "grassmann": "G"
+   },
+   "08.077.10": {
+      "grassmann": "G"
+   },
+   "08.078.10": {
+      "grassmann": "G"
+   },
+   "08.080.01": {
+      "arnold": "C1"
+   },
+   "08.080.02": {
+      "arnold": "C1"
+   },
+   "08.080.03": {
+      "arnold": "C1"
+   },
+   "08.080.04": {
+      "arnold": "C1"
+   },
+   "08.080.05": {
+      "arnold": "C1"
+   },
+   "08.080.06": {
+      "arnold": "C1"
+   },
+   "08.080.07": {
+      "arnold": "C1"
+   },
+   "08.080.08": {
+      "arnold": "C1"
+   },
+   "08.080.09": {
+      "arnold": "C1"
+   },
+   "08.080.10": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "08.086.04": {
+      "grassmann": "G"
+   },
+   "08.087.01": {
+      "witzel": "z"
+   },
+   "08.087.02": {
+      "witzel": "z"
+   },
+   "08.087.03": {
+      "witzel": "z"
+   },
+   "08.087.04": {
+      "witzel": "z"
+   },
+   "08.087.05": {
+      "witzel": "z"
+   },
+   "08.087.06": {
+      "witzel": "z"
+   },
+   "08.089.01": {
+      "witzel": "z"
+   },
+   "08.089.02": {
+      "witzel": "z"
+   },
+   "08.089.03": {
+      "witzel": "z"
+   },
+   "08.089.04": {
+      "witzel": "z"
+   },
+   "08.089.05": {
+      "witzel": "z"
+   },
+   "08.089.06": {
+      "witzel": "z"
+   },
+   "08.089.07": {
+      "witzel": "z"
+   },
+   "08.091.01": {
+      "witzel": "z"
+   },
+   "08.091.02": {
+      "witzel": "z"
+   },
+   "08.091.03": {
+      "witzel": "z"
+   },
+   "08.091.04": {
+      "witzel": "z"
+   },
+   "08.091.05": {
+      "witzel": "z"
+   },
+   "08.091.06": {
+      "witzel": "z"
+   },
+   "08.091.07": {
+      "witzel": "z"
+   },
+   "08.093.01": {
+      "witzel": "z"
+   },
+   "08.093.02": {
+      "witzel": "z"
+   },
+   "08.093.03": {
+      "witzel": "z"
+   },
+   "08.093.04": {
+      "witzel": "z"
+   },
+   "08.093.05": {
+      "witzel": "z"
+   },
+   "08.093.06": {
+      "witzel": "z"
+   },
+   "08.093.07": {
+      "witzel": "z"
+   },
+   "08.093.08": {
+      "witzel": "z"
+   },
+   "08.093.09": {
+      "witzel": "z"
+   },
+   "08.093.10": {
+      "witzel": "z"
+   },
+   "08.093.11": {
+      "witzel": "z"
+   },
+   "08.093.12": {
+      "witzel": "z"
+   },
+   "08.093.13": {
+      "witzel": "z"
+   },
+   "08.093.14": {
+      "witzel": "z"
+   },
+   "08.093.15": {
+      "witzel": "z"
+   },
+   "08.093.16": {
+      "witzel": "z"
+   },
+   "08.093.17": {
+      "witzel": "z"
+   },
+   "08.093.18": {
+      "witzel": "z"
+   },
+   "08.093.19": {
+      "witzel": "z"
+   },
+   "08.093.20": {
+      "witzel": "z"
+   },
+   "08.093.21": {
+      "witzel": "z"
+   },
+   "08.093.22": {
+      "witzel": "z"
+   },
+   "08.093.23": {
+      "witzel": "z"
+   },
+   "08.093.24": {
+      "witzel": "z"
+   },
+   "08.093.25": {
+      "witzel": "z"
+   },
+   "08.093.26": {
+      "witzel": "z"
+   },
+   "08.093.27": {
+      "witzel": "z"
+   },
+   "08.093.28": {
+      "witzel": "z"
+   },
+   "08.093.29": {
+      "witzel": "z"
+   },
+   "08.093.30": {
+      "witzel": "z"
+   },
+   "08.093.31": {
+      "witzel": "z"
+   },
+   "08.093.32": {
+      "witzel": "z"
+   },
+   "08.093.33": {
+      "witzel": "z"
+   },
+   "08.093.34": {
+      "grassmann": "G",
+      "witzel": "z"
+   },
+   "08.096.01": {
+      "witzel": "z"
+   },
+   "08.096.02": {
+      "witzel": "z"
+   },
+   "08.096.03": {
+      "witzel": "z"
+   },
+   "08.096.04": {
+      "witzel": "z"
+   },
+   "08.096.05": {
+      "witzel": "z"
+   },
+   "08.096.06": {
+      "witzel": "z"
+   },
+   "08.096.07": {
+      "witzel": "z"
+   },
+   "08.096.08": {
+      "witzel": "z"
+   },
+   "08.096.09": {
+      "witzel": "z"
+   },
+   "08.096.10": {
+      "witzel": "z"
+   },
+   "08.096.11": {
+      "witzel": "z"
+   },
+   "08.096.12": {
+      "witzel": "z"
+   },
+   "08.096.13": {
+      "witzel": "z"
+   },
+   "08.096.14": {
+      "witzel": "z"
+   },
+   "08.096.15": {
+      "witzel": "z"
+   },
+   "08.096.16": {
+      "witzel": "z"
+   },
+   "08.096.17": {
+      "witzel": "z"
+   },
+   "08.096.18": {
+      "witzel": "z"
+   },
+   "08.096.19": {
+      "witzel": "z"
+   },
+   "08.096.20": {
+      "witzel": "z"
+   },
+   "08.096.21": {
+      "witzel": "z"
+   },
+   "08.097.01": {
+      "witzel": "z"
+   },
+   "08.097.02": {
+      "witzel": "z"
+   },
+   "08.097.03": {
+      "witzel": "z"
+   },
+   "08.097.04": {
+      "witzel": "z"
+   },
+   "08.097.05": {
+      "witzel": "z"
+   },
+   "08.097.06": {
+      "witzel": "z"
+   },
+   "08.097.07": {
+      "witzel": "z"
+   },
+   "08.097.08": {
+      "witzel": "z"
+   },
+   "08.097.09": {
+      "witzel": "z"
+   },
+   "08.097.10": {
+      "grassmann": "G",
+      "witzel": "z"
+   },
+   "08.097.11": {
+      "grassmann": "G",
+      "witzel": "z"
+   },
+   "08.097.12": {
+      "grassmann": "G",
+      "witzel": "z"
+   },
+   "08.097.13": {
+      "grassmann": "G",
+      "witzel": "z"
+   },
+   "08.097.14": {
+      "grassmann": "G",
+      "witzel": "z"
+   },
+   "08.097.15": {
+      "grassmann": "G",
+      "witzel": "z"
+   },
+   "08.098.01": {
+      "witzel": "z"
+   },
+   "08.098.02": {
+      "witzel": "z"
+   },
+   "08.098.03": {
+      "witzel": "z"
+   },
+   "08.098.04": {
+      "witzel": "z"
+   },
+   "08.098.05": {
+      "witzel": "z"
+   },
+   "08.098.06": {
+      "witzel": "z"
+   },
+   "08.098.07": {
+      "witzel": "z"
+   },
+   "08.098.08": {
+      "witzel": "z"
+   },
+   "08.098.09": {
+      "witzel": "z"
+   },
+   "08.098.10": {
+      "witzel": "z"
+   },
+   "08.098.11": {
+      "witzel": "z"
+   },
+   "08.098.12": {
+      "witzel": "z"
+   },
+   "08.099.01": {
+      "witzel": "z"
+   },
+   "08.099.02": {
+      "witzel": "z"
+   },
+   "08.099.03": {
+      "witzel": "z"
+   },
+   "08.099.04": {
+      "witzel": "z"
+   },
+   "08.099.05": {
+      "witzel": "z"
+   },
+   "08.099.06": {
+      "witzel": "z"
+   },
+   "08.099.07": {
+      "witzel": "z"
+   },
+   "08.099.08": {
+      "witzel": "z"
+   },
+   "08.100.01": {
+      "witzel": "z"
+   },
+   "08.100.02": {
+      "witzel": "z"
+   },
+   "08.100.03": {
+      "witzel": "z"
+   },
+   "08.100.04": {
+      "witzel": "z"
+   },
+   "08.100.05": {
+      "witzel": "z"
+   },
+   "08.100.06": {
+      "grassmann": "G",
+      "witzel": "z"
+   },
+   "08.100.07": {
+      "grassmann": "G",
+      "arnold": "C1",
+      "witzel": "z"
+   },
+   "08.100.08": {
+      "grassmann": "G",
+      "arnold": "C1",
+      "witzel": "z"
+   },
+   "08.100.09": {
+      "grassmann": "G",
+      "arnold": "C1",
+      "witzel": "z"
+   },
+   "08.100.10": {
+      "grassmann": "G",
+      "arnold": "C1",
+      "witzel": "z"
+   },
+   "08.100.11": {
+      "grassmann": "G",
+      "arnold": "C1",
+      "witzel": "z"
+   },
+   "08.100.12": {
+      "grassmann": "G",
+      "arnold": "C1",
+      "witzel": "z"
+   },
+   "08.101.01": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "z"
+   },
+   "08.101.02": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "z"
+   },
+   "08.101.03": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "z"
+   },
+   "08.101.04": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "z"
+   },
+   "08.101.05": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "z"
+   },
+   "08.101.06": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "z"
+   },
+   "08.101.07": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "z"
+   },
+   "08.101.08": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "z"
+   },
+   "08.101.09": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "z"
+   },
+   "08.101.10": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "z"
+   },
+   "08.101.11": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "z"
+   },
+   "08.101.12": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "z"
+   },
+   "08.101.13": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "08.101.14": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "08.101.15": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "08.101.16": {
+      "oldenberg": "O",
+      "wuest": "W",
+      "witzel": "z"
+   },
+   "08.102.21": {
+      "grassmann": "G",
+      "witzel": "Z"
+   },
+   "08.103.14": {
+      "grassmann": "G",
+      "witzel": "Z"
+   },
+   "09.005.01": {
+      "witzel": "Z"
+   },
+   "09.005.02": {
+      "witzel": "Z"
+   },
+   "09.005.03": {
+      "witzel": "Z"
+   },
+   "09.005.04": {
+      "witzel": "Z"
+   },
+   "09.005.05": {
+      "witzel": "Z"
+   },
+   "09.005.06": {
+      "witzel": "Z"
+   },
+   "09.005.07": {
+      "witzel": "Z"
+   },
+   "09.005.08": {
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "09.005.09": {
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "09.005.10": {
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "09.005.11": {
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "09.058.01": {
+      "grassmann": "G"
+   },
+   "09.058.02": {
+      "grassmann": "G"
+   },
+   "09.058.03": {
+      "grassmann": "G"
+   },
+   "09.058.04": {
+      "grassmann": "G"
+   },
+   "09.061.22": {
+      "witzel": "Z"
+   },
+   "09.061.23": {
+      "witzel": "Z"
+   },
+   "09.061.24": {
+      "witzel": "Z"
+   },
+   "09.061.25": {
+      "witzel": "Z"
+   },
+   "09.061.26": {
+      "witzel": "Z"
+   },
+   "09.061.27": {
+      "witzel": "Z"
+   },
+   "09.061.28": {
+      "witzel": "Z"
+   },
+   "09.061.29": {
+      "witzel": "Z"
+   },
+   "09.061.30": {
+      "witzel": "Z"
+   },
+   "09.067.19": {
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "09.067.20": {
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "09.067.21": {
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "09.067.22": {
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "09.067.23": {
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "09.067.24": {
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "09.067.25": {
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "09.067.26": {
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "09.067.27": {
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "09.067.28": {
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "09.067.29": {
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "09.067.30": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "09.067.31": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "09.067.32": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "09.074.08": {
+      "grassmann": "G",
+      "witzel": "Z"
+   },
+   "09.097.55": {
+      "witzel": "Z"
+   },
+   "09.097.56": {
+      "witzel": "Z"
+   },
+   "09.097.57": {
+      "witzel": "Z"
+   },
+   "09.097.58": {
+      "grassmann": "G"
+   },
+   "09.100.08": {
+      "grassmann": "G"
+   },
+   "09.101.15": {
+      "grassmann": "G"
+   },
+   "09.101.16": {
+      "witzel": "Z"
+   },
+   "09.106.13": {
+      "witzel": "z"
+   },
+   "09.106.14": {
+      "witzel": "z"
+   },
+   "09.107.03": {
+      "grassmann": "G"
+   },
+   "09.107.16": {
+      "witzel": "Z"
+   },
+   "09.109.22": {
+      "grassmann": "G",
+      "witzel": "Z"
+   },
+   "09.112.01": {
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "09.112.02": {
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "09.112.03": {
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "09.112.04": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "09.113.01": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "09.113.02": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "09.113.03": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "09.113.04": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "09.113.05": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "09.113.06": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "09.113.07": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "09.113.08": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "09.113.09": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "09.113.10": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "09.113.11": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "09.114.01": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2",
+      "witzel": "Z"
+   },
+   "09.114.02": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2",
+      "witzel": "Z"
+   },
+   "09.114.03": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2",
+      "witzel": "Z"
+   },
+   "09.114.04": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2",
+      "witzel": "Z"
+   },
+   "10.009.01": {
+      "wuest": "W"
+   },
+   "10.009.02": {
+      "wuest": "W"
+   },
+   "10.009.03": {
+      "wuest": "W"
+   },
+   "10.009.04": {
+      "wuest": "W"
+   },
+   "10.009.05": {
+      "wuest": "W"
+   },
+   "10.009.06": {
+      "wuest": "W"
+   },
+   "10.009.07": {
+      "wuest": "W"
+   },
+   "10.009.08": {
+      "wuest": "W"
+   },
+   "10.009.09": {
+      "wuest": "W"
+   },
+   "10.010.01": {
+      "arnold": "C1"
+   },
+   "10.010.02": {
+      "arnold": "C1"
+   },
+   "10.010.03": {
+      "arnold": "C1"
+   },
+   "10.010.04": {
+      "arnold": "C1"
+   },
+   "10.010.05": {
+      "arnold": "C1"
+   },
+   "10.010.06": {
+      "arnold": "C1"
+   },
+   "10.010.07": {
+      "arnold": "C1"
+   },
+   "10.010.08": {
+      "arnold": "C1"
+   },
+   "10.010.09": {
+      "arnold": "C1"
+   },
+   "10.010.10": {
+      "arnold": "C1"
+   },
+   "10.010.11": {
+      "arnold": "C1"
+   },
+   "10.010.12": {
+      "arnold": "C1"
+   },
+   "10.010.13": {
+      "arnold": "C1"
+   },
+   "10.010.14": {
+      "arnold": "C1"
+   },
+   "10.011.07": {
+      "wuest": "w"
+   },
+   "10.011.08": {
+      "wuest": "w"
+   },
+   "10.011.09": {
+      "wuest": "w"
+   },
+   "10.012.06": {
+      "grassmann": "G"
+   },
+   "10.013.01": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.013.02": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.013.03": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.013.04": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.013.05": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.014.01": {
+      "arnold": "C1"
+   },
+   "10.014.02": {
+      "arnold": "C1"
+   },
+   "10.014.03": {
+      "arnold": "C1"
+   },
+   "10.014.04": {
+      "arnold": "C1"
+   },
+   "10.014.05": {
+      "arnold": "C1"
+   },
+   "10.014.06": {
+      "arnold": "C1"
+   },
+   "10.014.07": {
+      "arnold": "C1"
+   },
+   "10.014.08": {
+      "arnold": "C1"
+   },
+   "10.014.09": {
+      "arnold": "C1"
+   },
+   "10.014.10": {
+      "arnold": "C1"
+   },
+   "10.014.11": {
+      "arnold": "C1"
+   },
+   "10.014.12": {
+      "arnold": "C1"
+   },
+   "10.014.13": {
+      "arnold": "C1"
+   },
+   "10.014.14": {
+      "arnold": "C1"
+   },
+   "10.014.15": {
+      "arnold": "C1"
+   },
+   "10.014.16": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.015.01": {
+      "arnold": "C1"
+   },
+   "10.015.02": {
+      "arnold": "C1"
+   },
+   "10.015.03": {
+      "arnold": "C1"
+   },
+   "10.015.04": {
+      "arnold": "C1"
+   },
+   "10.015.05": {
+      "arnold": "C1"
+   },
+   "10.015.06": {
+      "arnold": "C1"
+   },
+   "10.015.07": {
+      "arnold": "C1"
+   },
+   "10.015.08": {
+      "arnold": "C1"
+   },
+   "10.015.09": {
+      "arnold": "C1"
+   },
+   "10.015.10": {
+      "arnold": "C1"
+   },
+   "10.015.11": {
+      "arnold": "C1"
+   },
+   "10.015.12": {
+      "arnold": "C1"
+   },
+   "10.015.13": {
+      "arnold": "C1"
+   },
+   "10.015.14": {
+      "arnold": "C1"
+   },
+   "10.016.01": {
+      "arnold": "C2"
+   },
+   "10.016.02": {
+      "arnold": "C2"
+   },
+   "10.016.03": {
+      "arnold": "C2"
+   },
+   "10.016.04": {
+      "arnold": "C2"
+   },
+   "10.016.05": {
+      "arnold": "C2"
+   },
+   "10.016.06": {
+      "arnold": "C2"
+   },
+   "10.016.07": {
+      "arnold": "C2"
+   },
+   "10.016.08": {
+      "arnold": "C2"
+   },
+   "10.016.09": {
+      "arnold": "C2"
+   },
+   "10.016.10": {
+      "arnold": "C2"
+   },
+   "10.016.11": {
+      "arnold": "C2"
+   },
+   "10.016.12": {
+      "arnold": "C2"
+   },
+   "10.016.13": {
+      "arnold": "C2"
+   },
+   "10.016.14": {
+      "arnold": "C2"
+   },
+   "10.016.15": {
+      "arnold": "C2"
+   },
+   "10.016.16": {
+      "arnold": "C2"
+   },
+   "10.016.17": {
+      "arnold": "C2"
+   },
+   "10.016.18": {
+      "arnold": "C2"
+   },
+   "10.016.19": {
+      "arnold": "C2"
+   },
+   "10.016.20": {
+      "arnold": "C2"
+   },
+   "10.016.21": {
+      "arnold": "C2"
+   },
+   "10.016.22": {
+      "arnold": "C2"
+   },
+   "10.016.23": {
+      "arnold": "C2"
+   },
+   "10.016.24": {
+      "arnold": "C2"
+   },
+   "10.017.01": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.017.02": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.017.03": {
+      "arnold": "C2"
+   },
+   "10.017.04": {
+      "arnold": "C2"
+   },
+   "10.017.05": {
+      "arnold": "C2"
+   },
+   "10.017.06": {
+      "arnold": "C2"
+   },
+   "10.017.07": {
+      "arnold": "C2"
+   },
+   "10.017.08": {
+      "arnold": "C2"
+   },
+   "10.017.09": {
+      "arnold": "C2"
+   },
+   "10.017.10": {
+      "arnold": "C2"
+   },
+   "10.017.11": {
+      "arnold": "C2"
+   },
+   "10.017.12": {
+      "arnold": "C2"
+   },
+   "10.017.13": {
+      "arnold": "C2"
+   },
+   "10.017.14": {
+      "arnold": "C2"
+   },
+   "10.018.01": {
+      "arnold": "C2"
+   },
+   "10.018.02": {
+      "arnold": "C2"
+   },
+   "10.018.03": {
+      "arnold": "C2"
+   },
+   "10.018.04": {
+      "arnold": "C2"
+   },
+   "10.018.05": {
+      "arnold": "C2"
+   },
+   "10.018.06": {
+      "arnold": "C2"
+   },
+   "10.018.07": {
+      "arnold": "C2"
+   },
+   "10.018.08": {
+      "arnold": "C2"
+   },
+   "10.018.09": {
+      "arnold": "C2"
+   },
+   "10.018.10": {
+      "arnold": "C2"
+   },
+   "10.018.11": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.018.12": {
+      "arnold": "C2"
+   },
+   "10.018.13": {
+      "arnold": "C2"
+   },
+   "10.018.14": {
+      "arnold": "C2"
+   },
+   "10.019.01": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.019.02": {
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "10.019.03": {
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "10.019.04": {
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "10.019.05": {
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "10.019.06": {
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "10.019.07": {
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "10.019.08": {
+      "oldenberg": "o",
+      "wuest": "w"
+   },
+   "10.020.01": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "10.022.15": {
+      "grassmann": "G"
+   },
+   "10.023.07": {
+      "grassmann": "G"
+   },
+   "10.024.04": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "10.024.05": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "10.024.06": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "10.027.01": {
+      "arnold": "C1"
+   },
+   "10.027.02": {
+      "arnold": "C1"
+   },
+   "10.027.03": {
+      "arnold": "C1"
+   },
+   "10.027.04": {
+      "arnold": "C1"
+   },
+   "10.027.05": {
+      "arnold": "C1"
+   },
+   "10.027.06": {
+      "arnold": "C1"
+   },
+   "10.027.07": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.027.08": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.027.09": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.027.10": {
+      "arnold": "C1"
+   },
+   "10.027.11": {
+      "arnold": "C1"
+   },
+   "10.027.12": {
+      "arnold": "C1"
+   },
+   "10.027.13": {
+      "arnold": "C1"
+   },
+   "10.027.14": {
+      "arnold": "C1"
+   },
+   "10.027.15": {
+      "arnold": "C1"
+   },
+   "10.027.16": {
+      "arnold": "C1"
+   },
+   "10.027.17": {
+      "arnold": "C1"
+   },
+   "10.027.18": {
+      "arnold": "C1"
+   },
+   "10.027.19": {
+      "arnold": "C1"
+   },
+   "10.027.20": {
+      "arnold": "C1"
+   },
+   "10.027.21": {
+      "arnold": "C1"
+   },
+   "10.027.22": {
+      "arnold": "C1"
+   },
+   "10.027.23": {
+      "arnold": "C1"
+   },
+   "10.027.24": {
+      "arnold": "C1"
+   },
+   "10.027.25": {
+      "arnold": "C1"
+   },
+   "10.027.26": {
+      "arnold": "C1"
+   },
+   "10.027.27": {
+      "arnold": "C1"
+   },
+   "10.028.01": {
+      "arnold": "C1"
+   },
+   "10.028.02": {
+      "arnold": "C1"
+   },
+   "10.028.03": {
+      "arnold": "C1"
+   },
+   "10.028.04": {
+      "arnold": "C1"
+   },
+   "10.028.05": {
+      "arnold": "C1"
+   },
+   "10.028.06": {
+      "arnold": "C1"
+   },
+   "10.028.07": {
+      "arnold": "C1"
+   },
+   "10.028.08": {
+      "arnold": "C1"
+   },
+   "10.028.09": {
+      "arnold": "C1"
+   },
+   "10.028.10": {
+      "arnold": "C1"
+   },
+   "10.028.11": {
+      "arnold": "C1"
+   },
+   "10.028.12": {
+      "arnold": "C1"
+   },
+   "10.031.11": {
+      "grassmann": "G"
+   },
+   "10.032.09": {
+      "grassmann": "G"
+   },
+   "10.033.01": {
+      "grassmann": "G"
+   },
+   "10.033.02": {
+      "grassmann": "G"
+   },
+   "10.033.03": {
+      "grassmann": "G"
+   },
+   "10.033.04": {
+      "grassmann": "G"
+   },
+   "10.033.05": {
+      "grassmann": "G"
+   },
+   "10.033.06": {
+      "grassmann": "G"
+   },
+   "10.033.07": {
+      "grassmann": "G"
+   },
+   "10.033.08": {
+      "grassmann": "G"
+   },
+   "10.033.09": {
+      "grassmann": "G"
+   },
+   "10.034.01": {
+      "arnold": "C1"
+   },
+   "10.034.02": {
+      "arnold": "C1"
+   },
+   "10.034.03": {
+      "arnold": "C1"
+   },
+   "10.034.04": {
+      "arnold": "C1"
+   },
+   "10.034.05": {
+      "arnold": "C1"
+   },
+   "10.034.06": {
+      "arnold": "C1"
+   },
+   "10.034.07": {
+      "grassmann": "G"
+   },
+   "10.034.08": {
+      "arnold": "C1"
+   },
+   "10.034.09": {
+      "arnold": "C1"
+   },
+   "10.034.10": {
+      "arnold": "C1"
+   },
+   "10.034.11": {
+      "arnold": "C1"
+   },
+   "10.034.12": {
+      "arnold": "C1"
+   },
+   "10.034.13": {
+      "arnold": "C1"
+   },
+   "10.034.14": {
+      "arnold": "C1"
+   },
+   "10.035.14": {
+      "grassmann": "G"
+   },
+   "10.036.01": {
+      "grassmann": "G"
+   },
+   "10.037.10": {
+      "grassmann": "G"
+   },
+   "10.037.11": {
+      "grassmann": "G"
+   },
+   "10.037.12": {
+      "grassmann": "G"
+   },
+   "10.040.10": {
+      "grassmann": "G"
+   },
+   "10.040.11": {
+      "grassmann": "G"
+   },
+   "10.040.12": {
+      "grassmann": "G"
+   },
+   "10.040.13": {
+      "grassmann": "G"
+   },
+   "10.040.14": {
+      "grassmann": "G"
+   },
+   "10.048.10": {
+      "grassmann": "G"
+   },
+   "10.051.01": {
+      "arnold": "C1"
+   },
+   "10.051.02": {
+      "arnold": "C1"
+   },
+   "10.051.03": {
+      "arnold": "C1"
+   },
+   "10.051.04": {
+      "arnold": "C1"
+   },
+   "10.051.05": {
+      "arnold": "C1"
+   },
+   "10.051.06": {
+      "arnold": "C1"
+   },
+   "10.051.07": {
+      "arnold": "C1"
+   },
+   "10.051.08": {
+      "arnold": "C1"
+   },
+   "10.051.09": {
+      "arnold": "C1"
+   },
+   "10.052.01": {
+      "arnold": "C1"
+   },
+   "10.052.02": {
+      "arnold": "C1"
+   },
+   "10.052.03": {
+      "arnold": "C1"
+   },
+   "10.052.04": {
+      "arnold": "C1"
+   },
+   "10.052.05": {
+      "arnold": "C1"
+   },
+   "10.052.06": {
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w"
+   },
+   "10.053.01": {
+      "arnold": "C1"
+   },
+   "10.053.02": {
+      "arnold": "C1"
+   },
+   "10.053.03": {
+      "arnold": "C1"
+   },
+   "10.053.04": {
+      "arnold": "C1"
+   },
+   "10.053.05": {
+      "arnold": "C1"
+   },
+   "10.053.06": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.053.07": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.053.08": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.053.09": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.053.10": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.053.11": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.057.01": {
+      "arnold": "C2"
+   },
+   "10.057.02": {
+      "arnold": "C2"
+   },
+   "10.057.03": {
+      "arnold": "C2"
+   },
+   "10.057.04": {
+      "arnold": "C2"
+   },
+   "10.057.05": {
+      "arnold": "C2"
+   },
+   "10.057.06": {
+      "arnold": "C2"
+   },
+   "10.058.01": {
+      "arnold": "C2"
+   },
+   "10.058.02": {
+      "arnold": "C2"
+   },
+   "10.058.03": {
+      "arnold": "C2"
+   },
+   "10.058.04": {
+      "arnold": "C2"
+   },
+   "10.058.05": {
+      "arnold": "C2"
+   },
+   "10.058.06": {
+      "arnold": "C2"
+   },
+   "10.058.07": {
+      "arnold": "C2"
+   },
+   "10.058.08": {
+      "arnold": "C2"
+   },
+   "10.058.09": {
+      "arnold": "C2"
+   },
+   "10.058.10": {
+      "arnold": "C2"
+   },
+   "10.058.11": {
+      "arnold": "C2"
+   },
+   "10.058.12": {
+      "arnold": "C2"
+   },
+   "10.059.01": {
+      "arnold": "C1"
+   },
+   "10.059.02": {
+      "arnold": "C1"
+   },
+   "10.059.03": {
+      "arnold": "C1"
+   },
+   "10.059.04": {
+      "arnold": "C1"
+   },
+   "10.059.05": {
+      "arnold": "C1"
+   },
+   "10.059.06": {
+      "arnold": "C1"
+   },
+   "10.059.07": {
+      "arnold": "C1"
+   },
+   "10.059.08": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W"
+   },
+   "10.059.09": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W"
+   },
+   "10.059.10": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W"
+   },
+   "10.060.01": {
+      "oldenberg": "O",
+      "arnold": "C1",
+      "wuest": "W"
+   },
+   "10.060.02": {
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "10.060.03": {
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "10.060.04": {
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "10.060.05": {
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "10.060.06": {
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "10.060.07": {
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "10.060.08": {
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "10.060.09": {
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "10.060.10": {
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "10.060.11": {
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "10.060.12": {
+      "oldenberg": "O",
+      "wuest": "W"
+   },
+   "10.061.01": {
+      "grassmann": "G"
+   },
+   "10.061.02": {
+      "grassmann": "G"
+   },
+   "10.061.03": {
+      "grassmann": "G"
+   },
+   "10.061.04": {
+      "grassmann": "G"
+   },
+   "10.061.05": {
+      "grassmann": "G"
+   },
+   "10.061.06": {
+      "grassmann": "G"
+   },
+   "10.061.07": {
+      "grassmann": "G"
+   },
+   "10.061.08": {
+      "grassmann": "G"
+   },
+   "10.061.09": {
+      "grassmann": "G"
+   },
+   "10.061.10": {
+      "grassmann": "G"
+   },
+   "10.061.11": {
+      "grassmann": "G"
+   },
+   "10.061.12": {
+      "grassmann": "G"
+   },
+   "10.061.13": {
+      "grassmann": "G"
+   },
+   "10.061.14": {
+      "grassmann": "G"
+   },
+   "10.061.15": {
+      "grassmann": "G"
+   },
+   "10.061.16": {
+      "grassmann": "G"
+   },
+   "10.061.17": {
+      "grassmann": "G"
+   },
+   "10.061.18": {
+      "grassmann": "G"
+   },
+   "10.061.19": {
+      "grassmann": "G"
+   },
+   "10.061.20": {
+      "grassmann": "G"
+   },
+   "10.061.21": {
+      "grassmann": "G"
+   },
+   "10.061.22": {
+      "grassmann": "G"
+   },
+   "10.061.23": {
+      "grassmann": "G"
+   },
+   "10.061.24": {
+      "grassmann": "G"
+   },
+   "10.061.25": {
+      "grassmann": "G"
+   },
+   "10.061.26": {
+      "grassmann": "G"
+   },
+   "10.061.27": {
+      "grassmann": "G"
+   },
+   "10.062.01": {
+      "arnold": "C1"
+   },
+   "10.062.02": {
+      "arnold": "C1"
+   },
+   "10.062.03": {
+      "arnold": "C1"
+   },
+   "10.062.04": {
+      "arnold": "C1"
+   },
+   "10.062.05": {
+      "arnold": "C1"
+   },
+   "10.062.06": {
+      "arnold": "C1"
+   },
+   "10.062.07": {
+      "arnold": "C1"
+   },
+   "10.062.08": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.062.09": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.062.10": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.062.11": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.067.01": {
+      "grassmann": "G"
+   },
+   "10.067.02": {
+      "grassmann": "G"
+   },
+   "10.067.03": {
+      "grassmann": "G"
+   },
+   "10.067.04": {
+      "grassmann": "G"
+   },
+   "10.067.05": {
+      "grassmann": "G"
+   },
+   "10.067.06": {
+      "grassmann": "G"
+   },
+   "10.067.07": {
+      "grassmann": "G"
+   },
+   "10.067.08": {
+      "grassmann": "G"
+   },
+   "10.067.09": {
+      "grassmann": "G"
+   },
+   "10.067.10": {
+      "grassmann": "G"
+   },
+   "10.067.11": {
+      "grassmann": "G"
+   },
+   "10.067.12": {
+      "grassmann": "G"
+   },
+   "10.071.01": {
+      "arnold": "C1"
+   },
+   "10.071.02": {
+      "arnold": "C1"
+   },
+   "10.071.03": {
+      "arnold": "C1"
+   },
+   "10.071.04": {
+      "arnold": "C1"
+   },
+   "10.071.05": {
+      "arnold": "C1"
+   },
+   "10.071.06": {
+      "arnold": "C1"
+   },
+   "10.071.07": {
+      "arnold": "C1"
+   },
+   "10.071.08": {
+      "arnold": "C1"
+   },
+   "10.071.09": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.071.10": {
+      "arnold": "C1"
+   },
+   "10.071.11": {
+      "arnold": "C1"
+   },
+   "10.072.01": {
+      "arnold": "C2"
+   },
+   "10.072.02": {
+      "arnold": "C2"
+   },
+   "10.072.03": {
+      "arnold": "C2"
+   },
+   "10.072.04": {
+      "arnold": "C2"
+   },
+   "10.072.05": {
+      "arnold": "C2"
+   },
+   "10.072.06": {
+      "arnold": "C2"
+   },
+   "10.072.07": {
+      "arnold": "C2"
+   },
+   "10.072.08": {
+      "arnold": "C2"
+   },
+   "10.072.09": {
+      "arnold": "C2"
+   },
+   "10.073.01": {
+      "grassmann": "G"
+   },
+   "10.073.02": {
+      "grassmann": "G"
+   },
+   "10.073.03": {
+      "grassmann": "G"
+   },
+   "10.073.04": {
+      "grassmann": "G"
+   },
+   "10.073.05": {
+      "grassmann": "G"
+   },
+   "10.073.06": {
+      "grassmann": "G"
+   },
+   "10.073.07": {
+      "grassmann": "G"
+   },
+   "10.073.08": {
+      "grassmann": "G"
+   },
+   "10.073.09": {
+      "grassmann": "G"
+   },
+   "10.073.10": {
+      "grassmann": "G"
+   },
+   "10.073.11": {
+      "grassmann": "G"
+   },
+   "10.075.01": {
+      "arnold": "C1"
+   },
+   "10.075.02": {
+      "arnold": "C1"
+   },
+   "10.075.03": {
+      "arnold": "C1"
+   },
+   "10.075.04": {
+      "arnold": "C1"
+   },
+   "10.075.05": {
+      "arnold": "C1"
+   },
+   "10.075.06": {
+      "arnold": "C1"
+   },
+   "10.075.07": {
+      "arnold": "C1"
+   },
+   "10.075.08": {
+      "arnold": "C1"
+   },
+   "10.075.09": {
+      "arnold": "C1"
+   },
+   "10.077.01": {
+      "grassmann": "G"
+   },
+   "10.077.02": {
+      "grassmann": "G"
+   },
+   "10.077.03": {
+      "grassmann": "G"
+   },
+   "10.077.04": {
+      "grassmann": "G"
+   },
+   "10.077.05": {
+      "grassmann": "G"
+   },
+   "10.077.06": {
+      "grassmann": "G"
+   },
+   "10.077.07": {
+      "grassmann": "G"
+   },
+   "10.077.08": {
+      "grassmann": "G"
+   },
+   "10.078.01": {
+      "grassmann": "G"
+   },
+   "10.078.02": {
+      "grassmann": "G"
+   },
+   "10.078.03": {
+      "grassmann": "G"
+   },
+   "10.078.04": {
+      "grassmann": "G"
+   },
+   "10.078.05": {
+      "grassmann": "G"
+   },
+   "10.078.06": {
+      "grassmann": "G"
+   },
+   "10.078.07": {
+      "grassmann": "G"
+   },
+   "10.078.08": {
+      "grassmann": "G"
+   },
+   "10.081.01": {
+      "arnold": "C1"
+   },
+   "10.081.02": {
+      "arnold": "C1"
+   },
+   "10.081.03": {
+      "arnold": "C1"
+   },
+   "10.081.04": {
+      "arnold": "C1"
+   },
+   "10.081.05": {
+      "arnold": "C1"
+   },
+   "10.081.06": {
+      "arnold": "C1"
+   },
+   "10.081.07": {
+      "arnold": "C1"
+   },
+   "10.082.01": {
+      "arnold": "C1"
+   },
+   "10.082.02": {
+      "arnold": "C1"
+   },
+   "10.082.03": {
+      "arnold": "C1"
+   },
+   "10.082.04": {
+      "arnold": "C1"
+   },
+   "10.082.05": {
+      "arnold": "C1"
+   },
+   "10.082.06": {
+      "arnold": "C1"
+   },
+   "10.082.07": {
+      "arnold": "C1"
+   },
+   "10.083.01": {
+      "arnold": "C1"
+   },
+   "10.083.02": {
+      "arnold": "C1"
+   },
+   "10.083.03": {
+      "arnold": "C1"
+   },
+   "10.083.04": {
+      "arnold": "C1"
+   },
+   "10.083.05": {
+      "arnold": "C1"
+   },
+   "10.083.06": {
+      "arnold": "C1"
+   },
+   "10.083.07": {
+      "arnold": "C1"
+   },
+   "10.084.01": {
+      "arnold": "C1"
+   },
+   "10.084.02": {
+      "arnold": "C1"
+   },
+   "10.084.03": {
+      "arnold": "C1"
+   },
+   "10.084.04": {
+      "arnold": "C1"
+   },
+   "10.084.05": {
+      "arnold": "C1"
+   },
+   "10.084.06": {
+      "arnold": "C1"
+   },
+   "10.084.07": {
+      "arnold": "C1"
+   },
+   "10.085.01": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.085.02": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.085.03": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.085.04": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.085.05": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.085.06": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.085.07": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.085.08": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.085.09": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.085.10": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.085.11": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.085.12": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.085.13": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.085.14": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.085.15": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.085.16": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.085.17": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.085.18": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.085.19": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.085.20": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.085.21": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2"
+   },
+   "10.085.22": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2"
+   },
+   "10.085.23": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2"
+   },
+   "10.085.24": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2"
+   },
+   "10.085.25": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2"
+   },
+   "10.085.26": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2"
+   },
+   "10.085.27": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2"
+   },
+   "10.085.28": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2"
+   },
+   "10.085.29": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2"
+   },
+   "10.085.30": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2"
+   },
+   "10.085.31": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2"
+   },
+   "10.085.32": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2"
+   },
+   "10.085.33": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2"
+   },
+   "10.085.34": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2"
+   },
+   "10.085.35": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2"
+   },
+   "10.085.36": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2"
+   },
+   "10.085.37": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2"
+   },
+   "10.085.38": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2"
+   },
+   "10.085.39": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2"
+   },
+   "10.085.40": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2"
+   },
+   "10.085.41": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2"
+   },
+   "10.085.42": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2"
+   },
+   "10.085.43": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2"
+   },
+   "10.085.44": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2"
+   },
+   "10.085.45": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2"
+   },
+   "10.085.46": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2"
+   },
+   "10.085.47": {
+      "grassmann": "G",
+      "oldenberg": "O",
+      "arnold": "C2"
+   },
+   "10.086.01": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.086.02": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.086.03": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.086.04": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.086.05": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.086.06": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.086.07": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.086.08": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.086.09": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.086.10": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.086.11": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.086.12": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.086.13": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.086.14": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.086.15": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.086.16": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.086.17": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.086.18": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.086.19": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.086.20": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.086.21": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.086.22": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.086.23": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.087.01": {
+      "arnold": "C2"
+   },
+   "10.087.02": {
+      "arnold": "C2"
+   },
+   "10.087.03": {
+      "arnold": "C2"
+   },
+   "10.087.04": {
+      "arnold": "C2"
+   },
+   "10.087.05": {
+      "arnold": "C2"
+   },
+   "10.087.06": {
+      "arnold": "C2"
+   },
+   "10.087.07": {
+      "arnold": "C2"
+   },
+   "10.087.08": {
+      "arnold": "C2"
+   },
+   "10.087.09": {
+      "arnold": "C2"
+   },
+   "10.087.10": {
+      "arnold": "C2"
+   },
+   "10.087.11": {
+      "arnold": "C2"
+   },
+   "10.087.12": {
+      "arnold": "C2"
+   },
+   "10.087.13": {
+      "arnold": "C2"
+   },
+   "10.087.14": {
+      "arnold": "C2"
+   },
+   "10.087.15": {
+      "arnold": "C2"
+   },
+   "10.087.16": {
+      "arnold": "C2"
+   },
+   "10.087.17": {
+      "arnold": "C2"
+   },
+   "10.087.18": {
+      "arnold": "C2"
+   },
+   "10.087.19": {
+      "arnold": "C2"
+   },
+   "10.087.20": {
+      "arnold": "C2"
+   },
+   "10.087.21": {
+      "arnold": "C2"
+   },
+   "10.087.22": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "10.087.23": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "z"
+   },
+   "10.087.24": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "z"
+   },
+   "10.087.25": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "z"
+   },
+   "10.088.01": {
+      "arnold": "C1"
+   },
+   "10.088.02": {
+      "arnold": "C1"
+   },
+   "10.088.03": {
+      "arnold": "C1"
+   },
+   "10.088.04": {
+      "arnold": "C1"
+   },
+   "10.088.05": {
+      "arnold": "C1"
+   },
+   "10.088.06": {
+      "arnold": "C1"
+   },
+   "10.088.07": {
+      "arnold": "C1"
+   },
+   "10.088.08": {
+      "arnold": "C1"
+   },
+   "10.088.09": {
+      "arnold": "C1"
+   },
+   "10.088.10": {
+      "arnold": "C1"
+   },
+   "10.088.11": {
+      "arnold": "C1"
+   },
+   "10.088.12": {
+      "arnold": "C1"
+   },
+   "10.088.13": {
+      "arnold": "C1"
+   },
+   "10.088.14": {
+      "arnold": "C1"
+   },
+   "10.088.15": {
+      "arnold": "C1"
+   },
+   "10.088.16": {
+      "arnold": "C1"
+   },
+   "10.088.17": {
+      "arnold": "C1"
+   },
+   "10.088.18": {
+      "arnold": "C1"
+   },
+   "10.088.19": {
+      "arnold": "C1"
+   },
+   "10.090.01": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.090.02": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.090.03": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.090.04": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.090.05": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.090.06": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.090.07": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.090.08": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.090.09": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.090.10": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.090.11": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.090.12": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.090.13": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.090.14": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.090.15": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.090.16": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.091.01": {
+      "arnold": "C1"
+   },
+   "10.091.02": {
+      "arnold": "C1"
+   },
+   "10.091.03": {
+      "arnold": "C1"
+   },
+   "10.091.04": {
+      "arnold": "C1"
+   },
+   "10.091.05": {
+      "arnold": "C1"
+   },
+   "10.091.06": {
+      "arnold": "C1"
+   },
+   "10.091.07": {
+      "arnold": "C1"
+   },
+   "10.091.08": {
+      "arnold": "C1"
+   },
+   "10.091.09": {
+      "arnold": "C1"
+   },
+   "10.091.10": {
+      "arnold": "C1"
+   },
+   "10.091.11": {
+      "arnold": "C1"
+   },
+   "10.091.12": {
+      "arnold": "C1"
+   },
+   "10.091.13": {
+      "arnold": "C1"
+   },
+   "10.091.14": {
+      "arnold": "C1"
+   },
+   "10.091.15": {
+      "arnold": "C1"
+   },
+   "10.092.15": {
+      "grassmann": "G"
+   },
+   "10.093.01": {
+      "grassmann": "G"
+   },
+   "10.093.02": {
+      "grassmann": "G"
+   },
+   "10.093.03": {
+      "grassmann": "G"
+   },
+   "10.093.04": {
+      "grassmann": "G"
+   },
+   "10.093.05": {
+      "grassmann": "G"
+   },
+   "10.093.06": {
+      "grassmann": "G"
+   },
+   "10.093.07": {
+      "grassmann": "G"
+   },
+   "10.093.08": {
+      "grassmann": "G"
+   },
+   "10.093.09": {
+      "grassmann": "G"
+   },
+   "10.093.10": {
+      "grassmann": "G"
+   },
+   "10.093.11": {
+      "grassmann": "G"
+   },
+   "10.093.12": {
+      "grassmann": "G"
+   },
+   "10.093.13": {
+      "grassmann": "G"
+   },
+   "10.093.14": {
+      "grassmann": "G"
+   },
+   "10.093.15": {
+      "grassmann": "G"
+   },
+   "10.094.01": {
+      "arnold": "C1"
+   },
+   "10.094.02": {
+      "arnold": "C1"
+   },
+   "10.094.03": {
+      "arnold": "C1"
+   },
+   "10.094.04": {
+      "arnold": "C1"
+   },
+   "10.094.05": {
+      "arnold": "C1"
+   },
+   "10.094.06": {
+      "arnold": "C1"
+   },
+   "10.094.07": {
+      "arnold": "C1"
+   },
+   "10.094.08": {
+      "arnold": "C1"
+   },
+   "10.094.09": {
+      "arnold": "C1"
+   },
+   "10.094.10": {
+      "arnold": "C1"
+   },
+   "10.094.11": {
+      "arnold": "C1"
+   },
+   "10.094.12": {
+      "arnold": "C1"
+   },
+   "10.094.13": {
+      "arnold": "C1"
+   },
+   "10.094.14": {
+      "arnold": "C1"
+   },
+   "10.095.01": {
+      "grassmann": "G",
+      "arnold": "C1",
+      "witzel": "Z"
+   },
+   "10.095.02": {
+      "grassmann": "G",
+      "arnold": "C1",
+      "witzel": "Z"
+   },
+   "10.095.03": {
+      "grassmann": "G",
+      "arnold": "C1",
+      "witzel": "Z"
+   },
+   "10.095.04": {
+      "grassmann": "G",
+      "arnold": "C1",
+      "witzel": "Z"
+   },
+   "10.095.05": {
+      "grassmann": "G",
+      "arnold": "C1",
+      "witzel": "Z"
+   },
+   "10.095.06": {
+      "grassmann": "G",
+      "arnold": "C1",
+      "witzel": "Z"
+   },
+   "10.095.07": {
+      "grassmann": "G",
+      "arnold": "C1",
+      "witzel": "Z"
+   },
+   "10.095.08": {
+      "grassmann": "G",
+      "arnold": "C1",
+      "witzel": "Z"
+   },
+   "10.095.09": {
+      "grassmann": "G",
+      "arnold": "C1",
+      "witzel": "Z"
+   },
+   "10.095.10": {
+      "grassmann": "G",
+      "arnold": "C1",
+      "witzel": "Z"
+   },
+   "10.095.11": {
+      "grassmann": "G",
+      "arnold": "C1",
+      "witzel": "Z"
+   },
+   "10.095.12": {
+      "grassmann": "G",
+      "arnold": "C1",
+      "witzel": "Z"
+   },
+   "10.095.13": {
+      "grassmann": "G",
+      "arnold": "C1",
+      "witzel": "Z"
+   },
+   "10.095.14": {
+      "grassmann": "G",
+      "arnold": "C1",
+      "witzel": "Z"
+   },
+   "10.095.15": {
+      "grassmann": "G",
+      "arnold": "C1",
+      "witzel": "Z"
+   },
+   "10.095.16": {
+      "grassmann": "G",
+      "arnold": "C1",
+      "witzel": "Z"
+   },
+   "10.095.17": {
+      "grassmann": "G",
+      "arnold": "C1",
+      "witzel": "Z"
+   },
+   "10.095.18": {
+      "grassmann": "G",
+      "arnold": "C1",
+      "witzel": "Z"
+   },
+   "10.097.01": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.097.02": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.097.03": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.097.04": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.097.05": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.097.06": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.097.07": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.097.08": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.097.09": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.097.10": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.097.11": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.097.12": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.097.13": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.097.14": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.097.15": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.097.16": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.097.17": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.097.18": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.097.19": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.097.20": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.097.21": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.097.22": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.097.23": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.098.01": {
+      "arnold": "C1"
+   },
+   "10.098.02": {
+      "arnold": "C1"
+   },
+   "10.098.03": {
+      "arnold": "C1"
+   },
+   "10.098.04": {
+      "arnold": "C1"
+   },
+   "10.098.05": {
+      "arnold": "C1"
+   },
+   "10.098.06": {
+      "arnold": "C1"
+   },
+   "10.098.07": {
+      "arnold": "C1"
+   },
+   "10.098.08": {
+      "arnold": "C1"
+   },
+   "10.098.09": {
+      "arnold": "C1"
+   },
+   "10.098.10": {
+      "arnold": "C1"
+   },
+   "10.098.11": {
+      "arnold": "C1"
+   },
+   "10.098.12": {
+      "arnold": "C1"
+   },
+   "10.099.01": {
+      "grassmann": "G"
+   },
+   "10.099.02": {
+      "grassmann": "G"
+   },
+   "10.099.03": {
+      "grassmann": "G"
+   },
+   "10.099.04": {
+      "grassmann": "G"
+   },
+   "10.099.05": {
+      "grassmann": "G"
+   },
+   "10.099.06": {
+      "grassmann": "G"
+   },
+   "10.099.07": {
+      "grassmann": "G"
+   },
+   "10.099.08": {
+      "grassmann": "G"
+   },
+   "10.099.09": {
+      "grassmann": "G"
+   },
+   "10.099.10": {
+      "grassmann": "G"
+   },
+   "10.099.11": {
+      "grassmann": "G"
+   },
+   "10.099.12": {
+      "grassmann": "G"
+   },
+   "10.100.12": {
+      "grassmann": "G"
+   },
+   "10.101.01": {
+      "arnold": "C1"
+   },
+   "10.101.02": {
+      "arnold": "C1"
+   },
+   "10.101.03": {
+      "arnold": "C1"
+   },
+   "10.101.04": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.101.05": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.101.06": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.101.07": {
+      "arnold": "C1"
+   },
+   "10.101.08": {
+      "arnold": "C1"
+   },
+   "10.101.09": {
+      "arnold": "C1"
+   },
+   "10.101.10": {
+      "arnold": "C1"
+   },
+   "10.101.11": {
+      "arnold": "C1"
+   },
+   "10.101.12": {
+      "arnold": "C1"
+   },
+   "10.102.01": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.102.02": {
+      "arnold": "C2"
+   },
+   "10.102.03": {
+      "arnold": "C2"
+   },
+   "10.102.04": {
+      "arnold": "C2"
+   },
+   "10.102.05": {
+      "arnold": "C2"
+   },
+   "10.102.06": {
+      "arnold": "C2"
+   },
+   "10.102.07": {
+      "arnold": "C2"
+   },
+   "10.102.08": {
+      "arnold": "C2"
+   },
+   "10.102.09": {
+      "arnold": "C2"
+   },
+   "10.102.10": {
+      "arnold": "C2"
+   },
+   "10.102.11": {
+      "arnold": "C2"
+   },
+   "10.102.12": {
+      "arnold": "C2"
+   },
+   "10.103.01": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.103.02": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.103.03": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.103.04": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.103.05": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.103.06": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.103.07": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.103.08": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.103.09": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.103.10": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.103.11": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.103.12": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.103.13": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.105.01": {
+      "grassmann": "G"
+   },
+   "10.105.02": {
+      "grassmann": "G"
+   },
+   "10.105.03": {
+      "grassmann": "G"
+   },
+   "10.105.04": {
+      "grassmann": "G"
+   },
+   "10.105.05": {
+      "grassmann": "G"
+   },
+   "10.105.06": {
+      "grassmann": "G"
+   },
+   "10.105.07": {
+      "grassmann": "G"
+   },
+   "10.105.08": {
+      "grassmann": "G"
+   },
+   "10.105.09": {
+      "grassmann": "G"
+   },
+   "10.105.10": {
+      "grassmann": "G"
+   },
+   "10.105.11": {
+      "grassmann": "G"
+   },
+   "10.106.01": {
+      "grassmann": "G"
+   },
+   "10.106.02": {
+      "grassmann": "G"
+   },
+   "10.106.03": {
+      "grassmann": "G"
+   },
+   "10.106.04": {
+      "grassmann": "G"
+   },
+   "10.106.05": {
+      "grassmann": "G"
+   },
+   "10.106.06": {
+      "grassmann": "G"
+   },
+   "10.106.07": {
+      "grassmann": "G"
+   },
+   "10.106.08": {
+      "grassmann": "G"
+   },
+   "10.106.09": {
+      "grassmann": "G"
+   },
+   "10.106.10": {
+      "grassmann": "G"
+   },
+   "10.106.11": {
+      "grassmann": "G"
+   },
+   "10.107.01": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.107.02": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.107.03": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.107.04": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.107.05": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.107.06": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.107.07": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.107.08": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.107.09": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.107.10": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.107.11": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.108.01": {
+      "arnold": "C1"
+   },
+   "10.108.02": {
+      "arnold": "C1"
+   },
+   "10.108.03": {
+      "arnold": "C1"
+   },
+   "10.108.04": {
+      "arnold": "C1"
+   },
+   "10.108.05": {
+      "arnold": "C1"
+   },
+   "10.108.06": {
+      "arnold": "C1"
+   },
+   "10.108.07": {
+      "arnold": "C1"
+   },
+   "10.108.08": {
+      "arnold": "C1"
+   },
+   "10.108.09": {
+      "arnold": "C1"
+   },
+   "10.108.10": {
+      "arnold": "C1"
+   },
+   "10.108.11": {
+      "arnold": "C1"
+   },
+   "10.109.01": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.109.02": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.109.03": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.109.04": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.109.05": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.109.06": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.109.07": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.114.01": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.114.02": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.114.03": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.114.04": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.114.05": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.114.06": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.114.07": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.114.08": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.114.09": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.114.10": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.115.08": {
+      "grassmann": "G"
+   },
+   "10.115.09": {
+      "grassmann": "G"
+   },
+   "10.117.01": {
+      "arnold": "C1"
+   },
+   "10.117.02": {
+      "arnold": "C1"
+   },
+   "10.117.03": {
+      "arnold": "C1"
+   },
+   "10.117.04": {
+      "arnold": "C1"
+   },
+   "10.117.05": {
+      "arnold": "C1"
+   },
+   "10.117.06": {
+      "arnold": "C1"
+   },
+   "10.117.07": {
+      "arnold": "C1"
+   },
+   "10.117.08": {
+      "grassmann": "G",
+      "arnold": "C1"
+   },
+   "10.117.09": {
+      "arnold": "C1"
+   },
+   "10.119.01": {
+      "oldenberg": "o",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.119.02": {
+      "oldenberg": "o",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.119.03": {
+      "oldenberg": "o",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.119.04": {
+      "oldenberg": "o",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.119.05": {
+      "oldenberg": "o",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.119.06": {
+      "oldenberg": "o",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.119.07": {
+      "oldenberg": "o",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.119.08": {
+      "oldenberg": "o",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.119.09": {
+      "oldenberg": "o",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.119.10": {
+      "oldenberg": "o",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.119.11": {
+      "oldenberg": "o",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.119.12": {
+      "oldenberg": "o",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.119.13": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.121.01": {
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.121.02": {
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.121.03": {
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.121.04": {
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.121.05": {
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.121.06": {
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.121.07": {
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.121.08": {
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.121.09": {
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.121.10": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W",
+      "witzel": "Z"
+   },
+   "10.124.01": {
+      "oldenberg": "o",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.124.02": {
+      "oldenberg": "o",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.124.03": {
+      "oldenberg": "o",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.124.04": {
+      "oldenberg": "o",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.124.05": {
+      "oldenberg": "o",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.124.06": {
+      "oldenberg": "o",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.124.07": {
+      "oldenberg": "o",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.124.08": {
+      "oldenberg": "o",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.124.09": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.125.01": {
+      "arnold": "C1"
+   },
+   "10.125.02": {
+      "arnold": "C1"
+   },
+   "10.125.03": {
+      "arnold": "C1"
+   },
+   "10.125.04": {
+      "arnold": "C1"
+   },
+   "10.125.05": {
+      "arnold": "C1"
+   },
+   "10.125.06": {
+      "arnold": "C1"
+   },
+   "10.125.07": {
+      "arnold": "C1"
+   },
+   "10.125.08": {
+      "arnold": "C1"
+   },
+   "10.125.09": {
+      "arnold": "C1"
+   },
+   "10.125.10": {
+      "arnold": "C1"
+   },
+   "10.126.08": {
+      "grassmann": "G"
+   },
+   "10.127.01": {
+      "arnold": "C1"
+   },
+   "10.127.02": {
+      "arnold": "C1"
+   },
+   "10.127.03": {
+      "arnold": "C1"
+   },
+   "10.127.04": {
+      "arnold": "C1"
+   },
+   "10.127.05": {
+      "arnold": "C1"
+   },
+   "10.127.06": {
+      "arnold": "C1"
+   },
+   "10.127.07": {
+      "arnold": "C1"
+   },
+   "10.127.08": {
+      "arnold": "C1"
+   },
+   "10.128.01": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "witzel": "Z"
+   },
+   "10.128.02": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "witzel": "Z"
+   },
+   "10.128.03": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "witzel": "Z"
+   },
+   "10.128.04": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "witzel": "Z"
+   },
+   "10.128.05": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "witzel": "Z"
+   },
+   "10.128.06": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "witzel": "Z"
+   },
+   "10.128.07": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "witzel": "Z"
+   },
+   "10.128.08": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "witzel": "Z"
+   },
+   "10.128.09": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "witzel": "Z"
+   },
+   "10.129.01": {
+      "arnold": "C2"
+   },
+   "10.129.02": {
+      "arnold": "C2"
+   },
+   "10.129.03": {
+      "arnold": "C2"
+   },
+   "10.129.04": {
+      "arnold": "C2"
+   },
+   "10.129.05": {
+      "arnold": "C2"
+   },
+   "10.129.06": {
+      "arnold": "C2"
+   },
+   "10.129.07": {
+      "arnold": "C2"
+   },
+   "10.130.01": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.130.02": {
+      "arnold": "C2"
+   },
+   "10.130.03": {
+      "arnold": "C2"
+   },
+   "10.130.04": {
+      "arnold": "C2"
+   },
+   "10.130.05": {
+      "arnold": "C2"
+   },
+   "10.130.06": {
+      "arnold": "C2"
+   },
+   "10.130.07": {
+      "arnold": "C2"
+   },
+   "10.131.04": {
+      "grassmann": "G"
+   },
+   "10.132.01": {
+      "grassmann": "G"
+   },
+   "10.132.02": {
+      "grassmann": "G"
+   },
+   "10.132.03": {
+      "grassmann": "G"
+   },
+   "10.132.04": {
+      "grassmann": "G"
+   },
+   "10.132.05": {
+      "grassmann": "G"
+   },
+   "10.132.06": {
+      "grassmann": "G"
+   },
+   "10.132.07": {
+      "grassmann": "G"
+   },
+   "10.133.07": {
+      "grassmann": "G"
+   },
+   "10.134.07": {
+      "grassmann": "G"
+   },
+   "10.135.01": {
+      "arnold": "C2"
+   },
+   "10.135.02": {
+      "arnold": "C2"
+   },
+   "10.135.03": {
+      "arnold": "C2"
+   },
+   "10.135.04": {
+      "arnold": "C2"
+   },
+   "10.135.05": {
+      "arnold": "C2"
+   },
+   "10.135.06": {
+      "arnold": "C2"
+   },
+   "10.135.07": {
+      "arnold": "C2"
+   },
+   "10.136.01": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.136.02": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.136.03": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.136.04": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.136.05": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.136.06": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.136.07": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.137.01": {
+      "arnold": "C2"
+   },
+   "10.137.02": {
+      "arnold": "C2"
+   },
+   "10.137.03": {
+      "arnold": "C2"
+   },
+   "10.137.04": {
+      "arnold": "C2"
+   },
+   "10.137.05": {
+      "arnold": "C2"
+   },
+   "10.137.06": {
+      "arnold": "C2"
+   },
+   "10.137.07": {
+      "arnold": "C2"
+   },
+   "10.139.04": {
+      "arnold": "C1"
+   },
+   "10.139.05": {
+      "arnold": "C1"
+   },
+   "10.139.06": {
+      "arnold": "C1"
+   },
+   "10.142.01": {
+      "arnold": "C1",
+      "wuest": "w"
+   },
+   "10.142.02": {
+      "arnold": "C1",
+      "wuest": "w"
+   },
+   "10.142.03": {
+      "arnold": "C1",
+      "wuest": "w"
+   },
+   "10.142.04": {
+      "arnold": "C1",
+      "wuest": "w"
+   },
+   "10.142.05": {
+      "arnold": "C1",
+      "wuest": "w"
+   },
+   "10.142.06": {
+      "arnold": "C1",
+      "wuest": "w"
+   },
+   "10.142.07": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.142.08": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C1",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.144.01": {
+      "grassmann": "G"
+   },
+   "10.144.02": {
+      "grassmann": "G"
+   },
+   "10.144.03": {
+      "grassmann": "G"
+   },
+   "10.144.04": {
+      "grassmann": "G"
+   },
+   "10.144.05": {
+      "grassmann": "G"
+   },
+   "10.144.06": {
+      "grassmann": "G"
+   },
+   "10.145.01": {
+      "arnold": "C2"
+   },
+   "10.145.02": {},
+   "10.145.03": {},
+   "10.145.04": {},
+   "10.145.05": {},
+   "10.145.06": {},
+   "10.146.01": {
+      "arnold": "C2"
+   },
+   "10.146.02": {
+      "arnold": "C2"
+   },
+   "10.146.03": {
+      "arnold": "C2"
+   },
+   "10.146.04": {
+      "arnold": "C2"
+   },
+   "10.146.05": {
+      "arnold": "C2"
+   },
+   "10.146.06": {
+      "arnold": "C2"
+   },
+   "10.149.01": {
+      "arnold": "C1"
+   },
+   "10.149.02": {
+      "arnold": "C1"
+   },
+   "10.149.03": {
+      "arnold": "C1"
+   },
+   "10.149.04": {
+      "arnold": "C1"
+   },
+   "10.149.05": {
+      "arnold": "C1"
+   },
+   "10.151.01": {
+      "arnold": "C2"
+   },
+   "10.151.02": {
+      "arnold": "C2"
+   },
+   "10.151.03": {
+      "arnold": "C2"
+   },
+   "10.151.04": {
+      "arnold": "C2"
+   },
+   "10.151.05": {
+      "arnold": "C2"
+   },
+   "10.152.01": {
+      "arnold": "C2"
+   },
+   "10.152.02": {
+      "arnold": "C2"
+   },
+   "10.152.03": {
+      "arnold": "C2"
+   },
+   "10.152.04": {
+      "arnold": "C2"
+   },
+   "10.152.05": {
+      "arnold": "C2"
+   },
+   "10.154.01": {
+      "arnold": "C2"
+   },
+   "10.154.02": {
+      "arnold": "C2"
+   },
+   "10.154.03": {
+      "arnold": "C2"
+   },
+   "10.154.04": {
+      "arnold": "C2"
+   },
+   "10.154.05": {
+      "arnold": "C2"
+   },
+   "10.155.01": {
+      "arnold": "C2"
+   },
+   "10.155.02": {
+      "arnold": "C2"
+   },
+   "10.155.03": {
+      "arnold": "C2"
+   },
+   "10.155.04": {
+      "arnold": "C2"
+   },
+   "10.155.05": {
+      "arnold": "C2"
+   },
+   "10.157.01": {
+      "arnold": "C2"
+   },
+   "10.157.02": {
+      "arnold": "C2"
+   },
+   "10.157.03": {
+      "arnold": "C2"
+   },
+   "10.157.04": {
+      "arnold": "C2"
+   },
+   "10.157.05": {
+      "arnold": "C2"
+   },
+   "10.158.01": {
+      "arnold": "C2"
+   },
+   "10.158.02": {
+      "arnold": "C2"
+   },
+   "10.158.03": {
+      "arnold": "C2"
+   },
+   "10.158.04": {
+      "arnold": "C2"
+   },
+   "10.158.05": {
+      "arnold": "C2"
+   },
+   "10.159.01": {
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.159.02": {
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.159.03": {
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.159.04": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.159.05": {
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.159.06": {
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.161.01": {
+      "arnold": "C2"
+   },
+   "10.161.02": {
+      "arnold": "C2"
+   },
+   "10.161.03": {
+      "arnold": "C2"
+   },
+   "10.161.04": {
+      "arnold": "C2"
+   },
+   "10.161.05": {
+      "arnold": "C2"
+   },
+   "10.162.01": {
+      "grassmann": "G",
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.162.02": {
+      "grassmann": "G",
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.162.03": {
+      "grassmann": "G",
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.162.04": {
+      "grassmann": "G",
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.162.05": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.162.06": {
+      "grassmann": "G",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.163.01": {
+      "grassmann": "G",
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.163.02": {
+      "grassmann": "G",
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.163.03": {
+      "grassmann": "G",
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.163.04": {
+      "grassmann": "G",
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.163.05": {
+      "grassmann": "G",
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w"
+   },
+   "10.163.06": {
+      "grassmann": "G",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.164.01": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.164.02": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.164.03": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.164.04": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.164.05": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.165.01": {
+      "arnold": "C2"
+   },
+   "10.165.02": {
+      "arnold": "C2"
+   },
+   "10.165.03": {
+      "arnold": "C2"
+   },
+   "10.165.04": {
+      "arnold": "C2"
+   },
+   "10.165.05": {
+      "arnold": "C2"
+   },
+   "10.166.01": {
+      "arnold": "C2"
+   },
+   "10.166.02": {
+      "arnold": "C2"
+   },
+   "10.166.03": {
+      "arnold": "C2"
+   },
+   "10.166.04": {
+      "arnold": "C2"
+   },
+   "10.166.05": {
+      "arnold": "C2"
+   },
+   "10.167.01": {
+      "arnold": "C2"
+   },
+   "10.167.02": {
+      "arnold": "C2"
+   },
+   "10.167.03": {
+      "arnold": "C2"
+   },
+   "10.167.04": {
+      "arnold": "C2"
+   },
+   "10.168.01": {
+      "arnold": "C2"
+   },
+   "10.168.02": {
+      "arnold": "C2"
+   },
+   "10.168.03": {
+      "arnold": "C2"
+   },
+   "10.168.04": {
+      "arnold": "C2"
+   },
+   "10.169.01": {
+      "arnold": "C2"
+   },
+   "10.169.02": {
+      "arnold": "C2"
+   },
+   "10.169.03": {
+      "arnold": "C2"
+   },
+   "10.169.04": {
+      "arnold": "C2"
+   },
+   "10.173.01": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.173.02": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.173.03": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.173.04": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.173.05": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.173.06": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.174.01": {
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.174.02": {
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.174.03": {
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.174.04": {
+      "oldenberg": "o",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.174.05": {
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.175.01": {
+      "arnold": "C2"
+   },
+   "10.175.02": {
+      "arnold": "C2"
+   },
+   "10.175.03": {
+      "arnold": "C2"
+   },
+   "10.175.04": {
+      "arnold": "C2"
+   },
+   "10.177.01": {
+      "arnold": "C2"
+   },
+   "10.177.02": {
+      "arnold": "C2"
+   },
+   "10.177.03": {
+      "arnold": "C2"
+   },
+   "10.178.01": {
+      "arnold": "C1"
+   },
+   "10.178.02": {
+      "arnold": "C1"
+   },
+   "10.178.03": {
+      "arnold": "C1"
+   },
+   "10.181.01": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.181.02": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.181.03": {
+      "grassmann": "G",
+      "arnold": "C2"
+   },
+   "10.182.01": {
+      "arnold": "C2"
+   },
+   "10.182.02": {
+      "arnold": "C2"
+   },
+   "10.182.03": {
+      "arnold": "C2"
+   },
+   "10.183.01": {
+      "arnold": "C2"
+   },
+   "10.183.02": {
+      "arnold": "C2"
+   },
+   "10.183.03": {
+      "arnold": "C2"
+   },
+   "10.184.01": {
+      "arnold": "C2"
+   },
+   "10.184.02": {
+      "arnold": "C2"
+   },
+   "10.184.03": {
+      "arnold": "C2"
+   },
+   "10.185.01": {
+      "arnold": "C2"
+   },
+   "10.185.02": {
+      "arnold": "C2"
+   },
+   "10.185.03": {
+      "arnold": "C2"
+   },
+   "10.186.01": {
+      "arnold": "C2"
+   },
+   "10.186.02": {
+      "arnold": "C2"
+   },
+   "10.186.03": {
+      "arnold": "C2"
+   },
+   "10.187.01": {
+      "oldenberg": "o",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.187.02": {
+      "oldenberg": "o",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.187.03": {
+      "oldenberg": "o",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.187.04": {
+      "oldenberg": "o",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.187.05": {
+      "oldenberg": "o",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.190.01": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "10.190.02": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "10.190.03": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "W"
+   },
+   "10.191.01": {
+      "oldenberg": "O",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.191.02": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.191.03": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   },
+   "10.191.04": {
+      "oldenberg": "O",
+      "arnold": "C2",
+      "wuest": "w",
+      "witzel": "Z"
+   }
+}
