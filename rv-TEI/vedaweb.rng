@@ -3085,8 +3085,10 @@ Feature Value]</a:documentation>
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">infinitive</a:documentation>
                <value>PTCP</value>
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">participle</a:documentation>
-               <value>PPP</value>
-               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">participle perfective passive</a:documentation>
+               <value>PTCP-ta</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">participle perfective passive ta</a:documentation>
+               <value>PTCP-na</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">participle perfective passive na</a:documentation>
                <value>DES</value>
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">desiderative</a:documentation>
                <value>PREC</value>

@@ -377,8 +377,11 @@
                   <valItem ident="PTCP">
                     <desc>participle</desc>
                   </valItem>
-                  <valItem ident="PPP">
-                    <desc>participle perfective passive</desc>
+                  <valItem ident="PTCP-ta">
+                    <desc>participle perfective passive ta</desc>
+                  </valItem>
+                   <valItem ident="PTCP-na">
+                    <desc>participle perfective passive na</desc>
                   </valItem>
                   <valItem ident="DES">
                     <desc>desiderative</desc>
