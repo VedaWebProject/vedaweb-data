@@ -1,0 +1,227 @@
+{
+   "1": [
+      "1",
+      "person",
+      "first person"
+   ],
+   "2": [
+      "2",
+      "person",
+      "second person"
+   ],
+   "3": [
+      "3",
+      "person",
+      "third person"
+   ],
+   "abl": [
+      "ABL",
+      "case",
+      "ablative"
+   ],
+   "abs": [
+      "CVB",
+      "non-finite",
+      "converb"
+   ],
+   "akk": [
+      "ACC",
+      "case",
+      "accusative"
+   ],
+   "akt": [
+      "ACT",
+      "voice",
+      "actor"
+   ],
+   "aor": [
+      "AOR",
+      "tense",
+      "aorist"
+   ],
+   "comp": [
+      "CMP",
+      "degree",
+      "comparative"
+   ],
+   "dat": [
+      "DAT",
+      "case",
+      "dative"
+   ],
+   "des": [
+      "DES",
+      "secondary conjugation",
+      "desiderative"
+   ],
+   "du": [
+      "DU",
+      "number",
+      "dual"
+   ],
+   "f": [
+      "F",
+      "gender",
+      "feminine"
+   ],
+   "fut": [
+      "FUT",
+      "tense",
+      "future"
+   ],
+   "gen": [
+      "GEN",
+      "case",
+      "genitive"
+   ],
+   "imperf": [
+      "IPRF",
+      "tense",
+      "imperfect"
+   ],
+   "ipv": [
+      "IMP",
+      "mood",
+      "imperative"
+   ],
+   "ind": [
+      "IND",
+      "mood",
+      "indicative"
+   ],
+   "inf": [
+      "INF",
+      "non-finite",
+      "infinitive"
+   ],
+   "inj": [
+      "INJ",
+      "mood",
+      "injuctive"
+   ],
+   "int": [
+      "INT",
+      "secondary conjugation",
+      "intensive"
+   ],
+   "instr": [
+      "INS",
+      "case",
+      "instrumental"
+   ],
+   "kaus": [
+      "CAUS",
+      "secondary conjugation",
+      "causative"
+   ],
+   "kond": [
+      "COND",
+      "tense",
+      "conditional"
+   ],
+   "konj": [
+      "SBJV",
+      "mood",
+      "subjunctive"
+   ],
+   "lok": [
+      "LOC",
+      "case",
+      "locative"
+   ],
+   "lp": [
+      "LP",
+      "local particle",
+      "local particle"
+   ],
+   "m": [
+      "M",
+      "gender",
+      "masculine"
+   ],
+   "med": [
+      "MED",
+      "voice",
+      "middle voice"
+   ],
+   "n": [
+      "N",
+      "gender",
+      "neuter"
+   ],
+   "na-ptz": [
+      "PTCP-na",
+      "non-finite",
+      "na participle perfective passive"
+   ],
+   "nom": [
+      "NOM",
+      "case",
+      "nominative"
+   ],
+   "opt": [
+      "OPT",
+      "mood",
+      "optative"
+   ],
+   "pass": [
+      "PASS",
+      "voice",
+      "passive voice"
+   ],
+   "pl": [
+      "PL",
+      "number",
+      "plural"
+   ],
+   "pluperf": [
+      "PLUPRF",
+      "tense",
+      "past perfect"
+   ],
+   "perf": [
+      "PRF",
+      "tense",
+      "perfect"
+   ],
+   "präs": [
+      "PRS",
+      "tense",
+      "present"
+   ],
+   "prek": [
+      "PREC",
+      "mood",
+      "precative"
+   ],
+   "ptz": [
+      "PTCP",
+      "non-finite",
+      "participle"
+   ],
+   "sg": [
+      "SG",
+      "number",
+      "singular"
+   ],
+   "si-ipv": [
+      "IMP-si",
+      "mood",
+      "si imperative"
+   ],
+   "sup": [
+      "SUP",
+      "degree",
+      "superlative"
+   ],
+   "ta-ptz": [
+      "PTCP-ta",
+      "non-finite",
+      "ta participle perfective passive"
+   ],
+   "vok": [
+      "VOC",
+      "case",
+      "vocative"
+   ]
+}
