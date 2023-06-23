@@ -52,7 +52,7 @@ No translation available for stanzas:
 
 ## MACDONELL
 
-### Stanza coverage of this version: 
+### Stanza coverage of this translation: 
 3.94 % (416 stanzas)
 
 Show coverage of this translation: 
@@ -112,7 +112,7 @@ Show coverage of this translation:
 
 ## MÜLLER
 
-### Stanza coverage of this version: 
+### Stanza coverage of this translation: 
 5.07 % (535 stanzas)
 
 Show coverage of this translation: 
@@ -146,7 +146,7 @@ Show coverage of this translation:
 
 ## OLDENBERG
 
-### Stanza coverage of this version: 
+### Stanza coverage of this translation: 
 10.82 % (1142 stanzas)
 
 Show coverage of this translation:
@@ -176,7 +176,7 @@ Show coverage of this translation:
 
 ## OTTO
 
-### Stanza coverage of this version: 
+### Stanza coverage of this translation: 
 0.72 % (76 stanzas)
 
 Show coverage of this translation:
@@ -303,7 +303,8 @@ Show coverage of this translation:
 
 ## VAN NOOTEN & HOLLAND
 
-### Stanza coverage of this version: 99,99 %
+### Stanza coverage of this version:
+99,99 %
 
 No transliteration available for stanza: 
  - `06.063.11`
