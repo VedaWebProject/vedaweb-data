@@ -193,7 +193,7 @@ Show coverage of this translation:
  - `10.082.02`
  - `10.082.04`
 
-## PADAPATHA (GUNKEL & RYAN)
+## PADAPATHA
 
 ### Stanza coverage of this version: 
 99.99 % (10551 stanzas)
