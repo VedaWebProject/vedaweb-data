@@ -24,7 +24,7 @@
                             </orgName>
                         </affiliation>
                     </persName>
-                    <resp>Technical realisation, data model, data transformations</resp>
+                    <resp>Technical realisation, data model, data transformations 2020</resp>
                 </respStmt>
                 <respStmt>
                     <persName>Prof. Dr. Patrick Sahle<affiliation>
@@ -54,6 +54,16 @@
                     <resp>TEI advice</resp>
                 </respStmt>
                 <respStmt>
+                    <persName>Anna Fischer<affiliation>
+                            <orgName>
+                                <orgName>Digital Humanities</orgName>
+                                <orgName>Bergische Universität Wuppertal</orgName>
+                            </orgName>
+                        </affiliation>
+                    </persName>
+                    <resp>Revision of source data, update data model, data transformations 2023</resp>
+                </respStmt>
+                <respStmt>
                     <persName>Prof. Dr. Daniel Kölligan<affiliation>
                             <orgName>
                                 <orgName>Institut für Altertumswissenschaften - Vergleichende
@@ -81,7 +91,6 @@
                         <orgName>Institut für Vergleichende Sprachwissenschaft</orgName>
                         <orgName>Universität Zürich</orgName>
                     </orgName>
-
                 </respStmt>
             </editionStmt>
             <publicationStmt>
@@ -91,6 +100,7 @@
                 </publisher>
                 <pubPlace>Cologne</pubPlace>
                 <date>2020</date>
+                <date>2023</date>
                 <availability>
                     <p>Please see the licensing terms for each source</p>
                 </availability>
@@ -115,7 +125,7 @@
                                 </respStmt>
                             </titleStmt>
                             <publicationStmt>
-                                <publisher>Cologne Center for e-Humanities
+                                <publisher>Cologne Center for eHumanities
                                     <abbr>CCeH</abbr></publisher>
                                 <pubPlace>Cologne, Germany</pubPlace>
                                 <date>2020</date>
@@ -125,7 +135,7 @@
                                         International License.</licence>
                                 </availability>
                                 <ptr
-                                    target="http://github.com/cceh/c-salt_vedaweb_sources/blob/master/rigveda/info/addressees.json"
+                                    target="https://github.com/VedaWebProject/vedaweb-data/tree/main/rigveda/info/addressees.json"
                                 />
                             </publicationStmt>
                             <sourceDesc>
@@ -179,7 +189,7 @@
                                 </respStmt>
                             </titleStmt>
                             <publicationStmt>
-                                <publisher>Cologne Center for e-Humanities
+                                <publisher>Cologne Center for eHumanities
                                     <abbr>CCeH</abbr></publisher>
                                 <pubPlace>Cologne, Germany</pubPlace>
                                 <date>2020</date>
@@ -189,7 +199,7 @@
                                         International License.</licence>
                                 </availability>
                                 <ptr
-                                    target="http://github.com/cceh/c-salt_vedaweb_sources/blob/master/rigveda/info/strata.json"
+                                    target="https://github.com/VedaWebProject/vedaweb-data/tree/main/rigveda/info/strata.json"
                                 />
                             </publicationStmt>
                             <sourceDesc>
@@ -248,7 +258,7 @@
                                 <ptr target="http://digitalcommons.unl.edu/zeabook/55"/>
                                 <idno type="git_commit"/>
                                 <ptr
-                                    target="http://github.com/cceh/c-salt_vedaweb_sources/blob/master/rigveda/info/stanza_properties.json"
+                                    target="https://github.com/VedaWebProject/vedaweb-data/tree/main/rigveda/info/stanza_properties.json"
                                 />
                             </publicationStmt>
                             <sourceDesc xml:id="stanza_properties_src">
@@ -310,7 +320,7 @@
                                     </publicationStmt>
                                     <seriesStmt>
                                         <title type="main">Abhandlungen der kgl. Gesellschaft der
-                                            Wissenschaften zu Gööttingen</title>
+                                            Wissenschaften zu Göttingen</title>
                                         <title type="sub">Philologisch-historische Klasse</title>
                                         <biblScope unit="volume">XI.5</biblScope>
                                     </seriesStmt>
@@ -402,6 +412,21 @@
                                             </orgName>
                                         </affiliation>
                                     </persName>
+                                    <persName>Antje Casaretto<affiliation>
+                                            <orgName>
+                                                <orgName>Sprachwissenschaftliches Seminar - Allgemeine
+                                                    Sprachwissenschaft</orgName>
+                                                <orgName>Albert-Ludwigs-Universität Freiburg</orgName>
+                                            </orgName>
+                                        </affiliation>
+                                    </persName>
+                                    <persName>Anna Fischer<affiliation>
+                                            <orgName>
+                                                <orgName>Digital Humanities</orgName>
+                                                <orgName>Bergische Universität Wuppertal</orgName>
+                                            </orgName>
+                                        </affiliation>
+                                    </persName>
                                 </respStmt>
                             </titleStmt>
                             <publicationStmt>
@@ -409,13 +434,14 @@
                                     <abbr>CCeH</abbr></publisher>
                                 <pubPlace>Cologne, Germany</pubPlace>
                                 <date>2020</date>
+                                <date>2023</date>
                                 <availability>
                                     <licence target="https://creativecommons.org/licenses/by/4.0/"
                                         >Distributed under a Creative Commons Attribution 4.0
                                         International License.</licence>
                                 </availability>
                                 <ptr
-                                    target="http://github.com/cceh/c-salt_vedaweb_sources/blob/master/rigveda/versions/zurich.xlsx"
+                                    target="https://github.com/VedaWebProject/vedaweb-data/tree/main/rigveda/versions/vedaweb_zurich.xlsx"
                                 />
                             </publicationStmt>
                             <sourceDesc>
@@ -444,8 +470,9 @@
                             <abstract>
                                 <p>These are the modifications made by <persName>Jakob
                                         Halfmann</persName> and <persName>Natalie
-                                        Korobzow</persName>&gt;to the data:</p>
-
+                                        Korobzow</persName>&gt;to the data in 2020 
+                                    <ptr target="https://github.com/VedaWebProject/vedaweb-data/tree/main/rigveda/versions/zurich.xlsx"/>
+                                </p>
                                 <list>
                                     <item n="1">Disambiguation of the relevant categories, if
                                         unspecified in Zurich data, according to the Grassmann
@@ -476,7 +503,57 @@
                                         marked as LP in column AF. </item>
                                     <item n="5">Comparatives and superlatives are marked as such in
                                         column X and desideratives as Des. in column Y. </item>
-
+                                </list>
+                                <p>These are the modifications made by <persName>Anna Fischer</persName> 
+                                    (data transformation, technical realisation) to the data:</p>
+                                <list>
+                                    <item n="6">New structure of data table for linguistic annotations with new column titles: 
+                                        <item n="a">A - "VERS_NR": renamed column (from "belege::stelleMMSSSRR")</item>
+                    					<item n="b">B - "PADA_NR": renamed column (from "belege::pada")</item>
+                    					<item n="c">C - "PADA_TEXT_LUBOTSKY": renamed column (from "belege::lubotskypada")</item>
+                    					<item n="d">D - "TOKEN_NR_VERS": renamed column (from "belege::wortnummer rc")</item>
+                    					<item n="e">E - "TOKEN_NR_PADA": renamed column (from "belege::wortnummer pada")</item>
+                    					<item n="f">F - "FORM": renamed column (from "belege::form")</item>
+                    					<item n="g">G - "KASUS": renamed column (from "belege::kasus")</item>
+                    					<item n="h">H - "GENUS": renamed column (from "belege::genus")</item>
+                    					<item n="i">I - "NUMERUS": renamed column (from "belege::numerus")</item>
+                    					<item n="j">J - "PERSON": renamed column (from "belege::person")</item>
+                    					<item n="k">K - "TEMPUS": moved and renamed column (from L "belege::tempus")</item>
+                    					<item n="l">L - "PRAESENSKLASSE": created new column for present stem class for each form</item>
+                    					<item n="m">M - "LEMMA_PRAESENSKLASSEN": created column for present stem classes of respective lemma: Moved and renamed column (from Y "formen::zusätzliche merkmale verb"), moved values "Abs." and "Inf." to column P "INFINIT", moved values "Prek." and "si-Ipv." to column N "MOOD", moved value "Des." to column Q "ABGELEITETE_KONJUGATION": moved value "se-Form" to column W "WEITERE_WERTE"</item>
+                    					<item n="n">N - "MODUS": moved and renamed column (from K "belege::modus")</item>
+                    					<item n="o">O - "DIATHESE": moved and renamed column (from M "belege::diathese")</item>
+                    					<item n="p">P - "INFINIT": created new column for infinite forms "Abs.", "Inf.", "Ptz.", "ta-Ptz.", "na-Ptz."</item>
+                    					<item n="q">Q - "ABGELEITETE_KONJUGATION": created new column for secondary conjugation "Des.", "Int.", "Kaus."</item>
+                    					<item n="r">R - "GRADUS": created new column for degree: "Comp.", "Sup."</item>
+                    					<item n="s">S - "LOKALPARTIKEL": moved and renamed column (from AF "LP")</item>
+                    					<item n="t">T - "LEMMA_ZÜRICH": moved and renamed column (from AA "lemmata klassisch::lemma")</item>
+                    					<item n="u">U - "LEMMA_ZÜRICH_LEMMATYP": moved and renamed column (from AB "lemmata klassisch::lemmatyp")</item>
+                                        <item n="v"> V - "LEMMA_ZÜRICH_BEDEUTUNG": moved and renamed column (from AC "lemmata klassisch::bedeutung")</item>
+                    					<item n="w">W - "WEITERE_WERTE": created new column for all miscellaneous values: e.g. "Hyperchar.", "n-haltig", "se-Form"</item>
+                    					<item n="x">X - "KOMMENTAR": created new column merging former columns Z "formen::HELPformbestimmung", AD "lemmata klassisch::HELPbedeutung" and AE "anmerkungen abweichungen"</item>
+                                    </item>
+                                    <item n="7">Columns that were removed due to redundant information: 
+                                         <item n="a">"formen::zusätzliche merkmale nomen": values "superlative" And "comparative" were renamed "sup." and "comp." and moved to new column R "GRADUS", all other values were moved to new column for miscellaneous W "WEITERE_WERTE"</item>
+                    					<item n="b">"belege::belegbestimmung summe simpel": values "Ptz.", "ta-Ptz." and "na-Ptz." were moved to new new column P "INFINIT"</item>
+                    					<item n="c">"belege::kasus bestof"</item>
+                    					<item n="d">"belege::genus bestof"</item>
+                    					<item n="e">"belege::numerus bestof"</item>
+                    					<item n="f">"belege::person bestof"</item>
+                    					<item n="g">"belege::modus bestof"</item>
+                    					<item n="h">"belege::tempus bestof"</item>
+                    					<item n="i">"belege::diathese bestof"</item>
+                    					<item n="j">"belege::belegbestimmung bestof summe sophistiziert"</item>
+                                    </item>
+                                </list>
+                                <p>These are the revisions and additions made by <persName>Antje Casaretto</persName> to the data in 2023</p>
+                                <list>
+                                    <item n="7">Column F-T: revision and correction (wherever necessary) of all annotations (books 1-7)</item>
+                                    <item n="8">Column G,H,I: disambiguation of case forms, reg. pronouns and nominal forms, if unspecified in Zurich data (books 1-7)</item>
+                                    <item n="9">Column L: disambiguation of present stem classes (book 7 and book 1 up to line 21050 vers 01.125.01)</item>
+                                    <item n="10">Column M: disambiguation of denominal verbs from primary verbs of the 10th class (books 1-10)</item>
+                                    <item n="11">Column N: disambiguation of precative and optative forms wherever possible (books 1-7)</item>
+                                    <item n="12">Column Q: new annotations for "Int." (intensives) and "Kaus." (causatives) (books 1-7)</item>
                                 </list>
                             </abstract>
                         </profileDesc>
@@ -510,6 +587,7 @@
                                     <abbr>CCeH</abbr></publisher>
                                 <pubPlace>Cologne, Germany</pubPlace>
                                 <date>2020</date>
+                                <date>2023</date>
                                 <availability>
                                     <licence
                                         target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
@@ -518,7 +596,7 @@
                                         License.</licence>
                                 </availability>
                                 <ptr
-                                    target="http://github.com/cceh/c-salt_vedaweb_sources/blob/master/rigveda/versions/aufrecht.json"
+                                    target="https://github.com/VedaWebProject/vedaweb-data/tree/main/rigveda/versions/aufrecht.csv"
                                 />
                             </publicationStmt>
                             <sourceDesc>
@@ -569,6 +647,7 @@
                                                 International License.</licence>
                                         </availability>
                                         <date when-iso="2019-10-03"/>
+                                        <date>2023</date>
                                         <ptr
                                             target="http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_Rgveda-edAufrecht.xml"
                                         />
@@ -620,7 +699,7 @@
                                         License.</licence>
                                 </availability>
                                 <ptr
-                                    target="http://github.com/cceh/c-salt_vedaweb_sources/blob/master/rigveda/versions/lubotsky.json"
+                                    target="https://github.com/VedaWebProject/vedaweb-data/tree/main/rigveda/versions/lubotsky.csv"
                                 />
                             </publicationStmt>
                             <sourceDesc>
@@ -687,7 +766,7 @@
                                         License.</licence>
                                 </availability>
                                 <ptr
-                                    target="http://github.com/cceh/c-salt_vedaweb_sources/blob/master/rigveda/versions/padapatha.json"
+                                    target="https://github.com/VedaWebProject/vedaweb-data/tree/main/rigveda/versions/padapatha.csv"
                                 />
                             </publicationStmt>
                             <sourceDesc>
@@ -782,7 +861,7 @@
                                         License.</licence>
                                 </availability>
                                 <ptr
-                                    target="http://github.com/cceh/c-salt_vedaweb_sources/blob/master/rigveda/versions/vnh.json"
+                                    target="https://github.com/VedaWebProject/vedaweb-data/tree/main/rigveda/versions/vnh.csv"
                                 />
                             </publicationStmt>
                             <sourceDesc>
@@ -874,7 +953,7 @@
                                     <abbr>CCeH</abbr></publisher>
                                 <pubPlace>Cologne, Germany</pubPlace>
                                 <date>2020</date>
-
+                                <date>2023</date>
                                 <availability>
                                     <licence
                                         target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
@@ -884,7 +963,7 @@
                                 </availability>
 
                                 <ptr
-                                    target="http://github.com/cceh/c-salt_vedaweb_sources/blob/master/rigveda/versions/eichler.json"
+                                    target="https://github.com/VedaWebProject/vedaweb-data/tree/main/rigveda/versions/eichler.csv"
                                 />
                             </publicationStmt>
 
@@ -951,6 +1030,7 @@
                                     <abbr>CCeH</abbr></publisher>
                                 <pubPlace>Cologne, Germany</pubPlace>
                                 <date>2020</date>
+                                <date>2023</date>
 
                                 <availability>
                                     <licence
@@ -961,7 +1041,7 @@
                                 </availability>
 
                                 <ptr
-                                    target="http://github.com/cceh/c-salt_vedaweb_sources/blob/master/rigveda/translations/deu/geldner.json"
+                                    target="https://github.com/VedaWebProject/vedaweb-data/tree/main/rigveda/translations/deu/geldner.csv"
                                 />
                             </publicationStmt>
                             <sourceDesc>
@@ -1031,6 +1111,7 @@
                                     <abbr>CCeH</abbr></publisher>
                                 <pubPlace>Cologne, Germany</pubPlace>
                                 <date>2020</date>
+                                <date>2023</date>
 
                                 <availability>
                                     <licence
@@ -1041,7 +1122,7 @@
                                 </availability>
 
                                 <ptr
-                                    target="http://github.com/cceh/c-salt_vedaweb_sources/blob/master/rigveda/translations/deu/grassmann.json"
+                                    target="https://github.com/VedaWebProject/vedaweb-data/tree/main/rigveda/translations/deu/grassmann.csv"
                                 />
                             </publicationStmt>
                             <sourceDesc>
@@ -1109,6 +1190,7 @@
                                     <abbr>CCeH</abbr></publisher>
                                 <pubPlace>Cologne, Germany</pubPlace>
                                 <date>2020</date>
+                                <date>2023</date>
                                 <availability>
                                     <licence
                                         target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
@@ -1118,7 +1200,7 @@
                                 </availability>
 
                                 <ptr
-                                    target="http://github.com/cceh/c-salt_vedaweb_sources/blob/master/rigveda/translations/deu/otto.json"
+                                    target="https://github.com/VedaWebProject/vedaweb-data/tree/main/rigveda/translations/deu/otto.csv"
                                 />
                             </publicationStmt>
                             <sourceDesc>
@@ -1171,6 +1253,7 @@
                                     <abbr>CCeH</abbr></publisher>
                                 <pubPlace>Cologne, Germany</pubPlace>
                                 <date>2020</date>
+                                <date>2023</date>
                                 <availability>
                                     <licence
                                         target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
@@ -1179,7 +1262,7 @@
                                         License.</licence>
                                 </availability>
                                 <ptr
-                                    target="http://github.com/cceh/c-salt_vedaweb_sources/blob/master/rigveda/translations/eng/griffith.json"
+                                    target="https://github.com/VedaWebProject/vedaweb-data/tree/main/rigveda/translations/eng/griffith.csv"
                                 />
                             </publicationStmt>
                             <sourceDesc>
@@ -1264,6 +1347,7 @@
                                     <abbr>CCeH</abbr></publisher>
                                 <pubPlace>Cologne, Germany</pubPlace>
                                 <date>2020</date>
+                                <date>2023</date>
                                 <availability>
                                     <licence
                                         target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
@@ -1272,7 +1356,7 @@
                                         License.</licence>
                                 </availability>
                                 <ptr
-                                    target="http://github.com/cceh/c-salt_vedaweb_sources/blob/master/rigveda/translations/eng/macdonell.json"
+                                    target="https://github.com/VedaWebProject/vedaweb-data/tree/main/rigveda/translations/eng/macdonell.csv"
                                 />
                             </publicationStmt>
                             <sourceDesc>
@@ -1339,6 +1423,7 @@
                                     <abbr>CCeH</abbr></publisher>
                                 <pubPlace>Cologne, Germany</pubPlace>
                                 <date>2020</date>
+                                <date>2023</date>
                                 <availability>
                                     <licence
                                         target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
@@ -1347,7 +1432,7 @@
                                         License.</licence>
                                 </availability>
                                 <ptr
-                                    target="http://github.com/cceh/c-salt_vedaweb_sources/blob/master/rigveda/translations/eng/mueller.json"
+                                    target="https://github.com/VedaWebProject/vedaweb-data/tree/main/rigveda/translations/eng/mueller.csv"
                                 />
                             </publicationStmt>
                             <sourceDesc>
@@ -1418,6 +1503,7 @@
                                     <abbr>CCeH</abbr></publisher>
                                 <pubPlace>Cologne, Germany</pubPlace>
                                 <date>2020</date>
+                                <date>2023</date>
                                 <availability>
                                     <licence
                                         target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
@@ -1426,7 +1512,7 @@
                                         License.</licence>
                                 </availability>
                                 <ptr
-                                    target="http://github.com/cceh/c-salt_vedaweb_sources/blob/master/rigveda/translations/eng/oldenberg.json"
+                                    target="https://github.com/VedaWebProject/vedaweb-data/tree/main/rigveda/translations/eng/oldenberg.csv"
                                 />
                             </publicationStmt>
                             <sourceDesc>
@@ -1497,6 +1583,7 @@
                                     <abbr>CCeH</abbr></publisher>
                                 <pubPlace>Cologne, Germany</pubPlace>
                                 <date>2020</date>
+                                <date>2023</date>
                                 <availability>
                                     <licence
                                         target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
@@ -1505,7 +1592,7 @@
                                         License.</licence>
                                 </availability>
                                 <ptr
-                                    target="http://github.com/cceh/c-salt_vedaweb_sources/blob/master/rigveda/translations/fra/renou.json"
+                                    target="https://github.com/VedaWebProject/vedaweb-data/tree/main/rigveda/translations/fra/renou.csv"
                                 />
                             </publicationStmt>
                             <sourceDesc>
@@ -1555,6 +1642,7 @@
                                     <abbr>CCeH</abbr></publisher>
                                 <pubPlace>Cologne, Germany</pubPlace>
                                 <date>2020</date>
+                                <date>2023</date>
                                 <availability>
                                     <licence
                                         target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
@@ -1563,7 +1651,7 @@
                                         License.</licence>
                                 </availability>
                                 <ptr
-                                    target="http://github.com/cceh/c-salt_vedaweb_sources/blob/master/rigveda/translations/rus/elizarenkova.json"
+                                    target="https://github.com/VedaWebProject/vedaweb-data/tree/main/rigveda/translations/rus/elizarenkova.csv"
                                 />
                             </publicationStmt>
                             <sourceDesc>
@@ -1608,6 +1696,14 @@
 
                 </listBibl>
             </sourceDesc>
+            <revisionDesc>
+                <change when-iso="2023-07-05">complete revision of the following translations: elizarenkova.csv, geldner.csv, griffith.csv and renou.csv (by Natalie Korobzov)</change>
+                <change when-iso="2023-07-05">revision of special characters and missing quotation marks in all translations (by Natalie Korobzow and Anna Fischer)</change>
+                <change when-iso="2023-07-05">correction of iterative compounds in aufrecht.csv (by Anna Fischer)</change>
+                <change when-iso="2023-07-05">revised references to Grassmann’s dictionary for frequent lemmata - with frequency of 10 times or more in Rigveda (by Natalie Korobzow</change>
+                <change when-iso="2023-07-05">converted all versions and translations (except zurich data) from .json to tab separated .csv (by Anna Fischer) for simplifying future manual corrections</change>
+                <change when-iso="2023-07-07">moved source files and TEI files to new Github repository, updated all URLs pointing to source files (by Anna Fischer and Börge Kiss)</change>
+            </revisionDesc>
         </fileDesc>
 
 

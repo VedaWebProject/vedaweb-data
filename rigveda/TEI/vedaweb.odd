@@ -10,10 +10,17 @@
           <abbr>CCeH</abbr> Cologne Center for eHumanities</publisher>
         <pubPlace>Cologne</pubPlace>
         <date>2020</date>
+        <date>2023</date>
       </publicationStmt>
       <sourceDesc>
         <p/>
       </sourceDesc>
+      <revisionDesc>
+        <change when-iso="2023-07-05">added revisionDesc to moduleRef for header (by Anna Fischer) </change>
+        <change when-iso="2023-07-05">added morphosyntactic categories: degree, local particle, secondary conjugation (by Anna Fischer</change>
+        <change when-iso="2023-07-05">added values for Leipzig glossing: CAUS, CMP, IMP-si, INT, PTCP, PTCP-ta, PTCP-na, SUP (by Anna Fischer)</change>
+        <change when-iso="2023-07-05">removed PPP as item of Leipzig glossing (by Anna Fischer)</change>
+      </revisionDesc
     </fileDesc>
   </teiHeader>
   <text>
@@ -27,7 +34,7 @@
             include="p list item head author title l lg ptr respStmt resp publisher date teiCorpus abbr pubPlace listBibl bibl biblScope name editor email relatedItem biblStruct monogr imprint"/>
           <moduleRef key="tei"/>
           <moduleRef key="header"
-            include="teiHeader fileDesc titleStmt publicationStmt sourceDesc funder availability editionStmt edition biblFull licence profileDesc langUsage language seriesStmt abstract idno"/>
+            include="teiHeader fileDesc titleStmt publicationStmt sourceDesc revisionDesc funder availability editionStmt edition biblFull licence profileDesc langUsage language seriesStmt abstract idno"/>
           <moduleRef key="textstructure" include="TEI text body div front back"/>
           <moduleRef key="namesdates" include="persName person orgName affiliation"/>
           <moduleRef key="dictionaries" include="lang"/>
