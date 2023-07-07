@@ -10,5 +10,5 @@ The information contained in these TEI files can also be accessed:
 Every source on this reposítory contains a specific CC licence. For details see the `<teiHeader>` in [vedawebcorpus.tei](https://github.com/VedaWebProject/vedaweb-data/blob/main/rigveda/TEI/vedaweb_corpus.tei).
 
 ## Cite
-[![DOI](https://zenodo.org/badge/195203670.svg)](https://zenodo.org/badge/latestdoi/195203670)
+DOI coming soon
 
