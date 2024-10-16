@@ -11,6 +11,7 @@
         <pubPlace>Cologne</pubPlace>
         <date>2020</date>
         <date>2023</date>
+        <date>2024</date>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -20,6 +21,7 @@
         <change when-iso="2023-07-05">added morphosyntactic categories: degree, local particle, secondary conjugation (by Anna Fischer</change>
         <change when-iso="2023-07-05">added values for Leipzig glossing: CAUS, CMP, IMP-si, INT, PTCP, PTCP-ta, PTCP-na, SUP (by Anna Fischer)</change>
         <change when-iso="2023-07-05">removed PPP as item of Leipzig glossing (by Anna Fischer)</change>
+        <change when-iso="2024-10-16">added values for Leipzig glossing: DEN, GDV (by Anna Fischer)</change>
       </revisionDesc
     </fileDesc>
   </teiHeader>
@@ -196,8 +198,7 @@
                   <valItem ident="gra_lemma">
                     <desc>The content of this element should be an entry from Grassmann's
                       dictionary. Most of the time it is not the same notation employed by
-                      Grassmann. This information has been provided by Zürich and is left here as it
-                      is.</desc>
+                      Grassmann.</desc>
                   </valItem>
                   <valItem ident="gra_gramm">
                     <desc>Interpretation by Zurich of the grammatical information related to this
@@ -304,6 +305,9 @@
                   <valItem ident="DAT">
                     <desc>dative</desc>
                   </valItem>
+                  <valItem ident="DEN">
+                    <desc>denominative</desc>
+                  </valItem>
                   <valItem ident="DES">
                     <desc>desiderative</desc>
                   </valItem>
@@ -318,6 +322,9 @@
                   </valItem>
                   <valItem ident="GEN">
                     <desc>genitive</desc>
+                  </valItem>
+                  <valItem ident="GDV">
+                    <desc>gerundive</desc>
                   </valItem>
                   <valItem ident="IMP">
                     <desc>imperative</desc>

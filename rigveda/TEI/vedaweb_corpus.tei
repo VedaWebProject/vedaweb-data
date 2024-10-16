@@ -61,7 +61,7 @@
                             </orgName>
                         </affiliation>
                     </persName>
-                    <resp>Revision of source data, update data model, data transformations 2023</resp>
+                    <resp>Revision of source data, update data model, data transformations 2023 and 2024</resp>
                 </respStmt>
                 <respStmt>
                     <persName>Prof. Dr. Daniel Kölligan<affiliation>
@@ -101,6 +101,7 @@
                 <pubPlace>Cologne</pubPlace>
                 <date>2020</date>
                 <date>2023</date>
+                <date>2024</date>
                 <availability>
                     <p>Please see the licensing terms for each source</p>
                 </availability>
@@ -427,6 +428,15 @@
                                             </orgName>
                                         </affiliation>
                                     </persName>
+                                    <persName>Pascal Coenen<affiliation>
+                                            <orgName>
+                                                <orgName>Institut für Altertumswissenschaften -
+                                                  Vergleichende Sprachwissenschaft</orgName>
+                                                <orgName>Julius-Maximilians-Universität
+                                                  Würzburg</orgName>
+                                            </orgName>
+                                        </affiliation>
+                                    </persName>
                                 </respStmt>
                             </titleStmt>
                             <publicationStmt>
@@ -435,6 +445,7 @@
                                 <pubPlace>Cologne, Germany</pubPlace>
                                 <date>2020</date>
                                 <date>2023</date>
+                                <date>2024</date>
                                 <availability>
                                     <licence target="https://creativecommons.org/licenses/by/4.0/"
                                         >Distributed under a Creative Commons Attribution 4.0
@@ -545,8 +556,9 @@
                     					<item n="i">"belege::diathese bestof"</item>
                     					<item n="j">"belege::belegbestimmung bestof summe sophistiziert"</item>
                                     </item>
+
                                 </list>
-                                <p>These are the revisions and additions made by <persName>Antje Casaretto</persName> to the data in 2023</p>
+                                <p>These are the revisions and additions made by <persName>Antje Casaretto</persName> to the data in 2023</persName></p>
                                 <list>
                                     <item n="7">Column F-T: revision and correction (wherever necessary) of all annotations (books 1-7)</item>
                                     <item n="8">Column G,H,I: disambiguation of case forms, reg. pronouns and nominal forms, if unspecified in Zurich data (books 1-7)</item>
@@ -555,6 +567,22 @@
                                     <item n="11">Column N: disambiguation of precative and optative forms wherever possible (books 1-7)</item>
                                     <item n="12">Column Q: new annotations for "Int." (intensives) and "Kaus." (causatives) (books 1-7)</item>
                                 </list>
+                                <p>These are the revisions and additions made by <persName>Antje Casaretto</persName> to the data in 2024 with processual and computational support by <persName>Anna Fischer</p>
+                                <list>
+                                    <item n="13">Column F-T: revision and correction (wherever necessary) of all annotations (books 8-10)</item>
+                                    <item n="14">Column G,H,I: disambiguation of case and gender forms in nominal and pronominal forms, if unspecified in Zurich data (books 8-10)</item>
+                                    <item n="15">Column L, M: disambiguation of present stem classes (books 1-10)</item>
+                                    <item n="17">Column N: disambiguation of precative and optative forms wherever possible (books 8-10)</item>
+                                    <item n="18">Column P: new annotations for "Gdv." (gerundives)</item>
+                                    <item n="19">Column Q: new annotations for "Den." (denominatives) (books 1-10) and further annotations of "Kaus." (causatives) and "Int." (intensives) (books 8-10)</item>
+                                    <item n="20">Column T: revision of lemmatization (books 1-10)</item>
+                                    <item n="21">Column V: update of meanings according to revised lemmatization; minimal revision</item>
+                                    <item n="22">Column W: revised annotation of ending -se (“se-Form”) (books 1-10); no systematic revision</item>
+                                    <item n="23">Column X - “KOMMENTAR_ZÜRICH”: column renamed (from "KOMMENTAR"), no systematic revision</item>
+                                    <item n="24">Column A-U: general revision or formal inconsistencies and typing errors (book 1-10)</item>
+                                </list>
+                                <p>These are the revisions and additions made by <persName>Natalie Korobzov</persName> and <persName>Pascal Coenen</persName>to the data in 2024 with processual and computational support by <persName>Anna Fischer</persName></p>
+                                    <item n ="25">Y: "LEMMA_GRASSMANN_ID": new column for references to Grassmann dictionary and revision of Grassmann references (books 1-10)</item>
                             </abstract>
                         </profileDesc>
                     </biblFull>
@@ -954,6 +982,7 @@
                                 <pubPlace>Cologne, Germany</pubPlace>
                                 <date>2020</date>
                                 <date>2023</date>
+                                <date>2024</date>
                                 <availability>
                                     <licence
                                         target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
@@ -1703,6 +1732,8 @@
                 <change when-iso="2023-07-05">revised references to Grassmann’s dictionary for frequent lemmata - with frequency of 10 times or more in Rigveda (by Natalie Korobzow</change>
                 <change when-iso="2023-07-05">converted all versions and translations (except zurich data) from .json to tab separated .csv (by Anna Fischer) for simplifying future manual corrections</change>
                 <change when-iso="2023-07-07">moved source files and TEI files to new Github repository, updated all URLs pointing to source files (by Anna Fischer and Börge Kiss)</change>
+                <change when-iso="2024-10-16">revised references to Grassmann’s dictionary (by Natalie Korobzow, Pascal Coenen and Anna Fischer)</change>
+
             </revisionDesc>
         </fileDesc>
 

@@ -3035,8 +3035,10 @@ Feature Value]</a:documentation>
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">converb</a:documentation>
                <value>DAT</value>
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">dative</a:documentation>
-               <value>DES</value>
+               <value>DEN</value>
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">desiderative</a:documentation>
+               <value>DES</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">denominative</a:documentation>
                <value>DU</value>
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">dual</a:documentation>
                <value>F</value>
@@ -3045,6 +3047,8 @@ Feature Value]</a:documentation>
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">future</a:documentation>
                <value>GEN</value>
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">genitive</a:documentation>
+               <value>GDV</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">gerundive</a:documentation>
                <value>IMP</value>
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">imperative</a:documentation>
                <value>IMP-si</value>

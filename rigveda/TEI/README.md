@@ -9,6 +9,6 @@ The information contained in these TEI files can also be accessed:
 ## Licence
 Every source on this reposítory contains a specific CC licence. For details see the `<teiHeader>` in [vedawebcorpus.tei](https://github.com/VedaWebProject/vedaweb-data/blob/main/rigveda/TEI/vedaweb_corpus.tei).
 
-## Cite
-DOI coming soon
+## Upcoming updates
+There will be a new update of the source data and the TEI files in 2025. 
 

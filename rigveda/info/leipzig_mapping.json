@@ -49,6 +49,11 @@
       "case",
       "dative"
    ],
+   "den": [
+      "DEN",
+      "secondary conjugation",
+      "demoninative"
+   ],
    "des": [
       "DES",
       "secondary conjugation",
@@ -73,6 +78,11 @@
       "GEN",
       "case",
       "genitive"
+   ],
+   "gdv": [
+      "GDV",
+      "non-finite",
+      "gerundive"
    ],
    "imperf": [
       "IPRF",
