@@ -3,6 +3,16 @@ first person,1,1.,person,PERSON,
 second person,2,2.,person,PERSON,
 third person,3,3.,person,PERSON,
 irregular form,-,ir.,-,PRAESENSKLASSE,present stems classes not imported in TEI or platform (due 2025)
+present stem class 1,-,1,-,PRAESENSKLASSE,present stems classes not imported in TEI or platform (due 2025)
+present stem class 2,-,2,-,PRAESENSKLASSE,present stems classes not imported in TEI or platform (due 2025)
+present stem class 3,-,3,-,PRAESENSKLASSE,present stems classes not imported in TEI or platform (due 2025)
+present stem class 4,-,4,-,PRAESENSKLASSE,present stems classes not imported in TEI or platform (due 2025)
+present stem class 5,-,5,-,PRAESENSKLASSE,present stems classes not imported in TEI or platform (due 2025)
+present stem class 6,-,6,-,PRAESENSKLASSE,present stems classes not imported in TEI or platform (due 2025)
+present stem class 7,-,7,-,PRAESENSKLASSE,present stems classes not imported in TEI or platform (due 2025)
+present stem class 8,-,8,-,PRAESENSKLASSE,present stems classes not imported in TEI or platform (due 2025)
+present stem class 9,-,9,-,PRAESENSKLASSE,present stems classes not imported in TEI or platform (due 2025)
+present stem class 10,-,10,-,PRAESENSKLASSE,present stems classes not imported in TEI or platform (due 2025)
 ablative,ABL,Abl.,case,KASUS,
 accusative,ACC,Akk.,case,KASUS,
 active,ACT,Akt.,voice,DIATHESE,
