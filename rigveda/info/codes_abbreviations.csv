@@ -1,49 +1,49 @@
-Description	Code TEI and platform	Code vedaweb_zurich.xlsx	Category TEI and platform	Category vedaweb_zurich.xlsx	Comment
-first person	1	1.	person	PERSON	
-second person	2	2.	person	PERSON	
-third person	3	3.	person	PERSON	
-irregular form	-	ir.	-	PRAESENSKLASSE	present stems classes not imported in TEI or platform (due 2025)
-ablative	ABL	Abl.	case	KASUS	
-accusative	ACC	Akk.	case	KASUS	
-active	ACT	Akt.	voice	DIATHESE	
-aorist	AOR	Aor.	tense	TEMPUS	
-causative	CAUS 	Kaus.	secondary conjugation	ABGELEITETE_KONJUGATION	
-comparative	CMP	comp.	degree	GRADUS	
-conditional	COND	Kond.	mood	MODUS	
-converb/absolutiva	CVB	Abs.	non-finite	INFINIT	
-dative	DAT	Dat.	case	KASUS	
-denominative	DEN 	Den.	secondary conjugation	ABGELEITETE_KONJUGATION	
-desiderative	DES 	Des.	secondary conjugation	ABGELEITETE_KONJUGATION	
-dual	DU	Du.	number	NUMERUS	
-feminine	F	f.	gender	GENUS	
-future	FUT	Fut.	tense	TEMPUS	
-gerundive	GDV 	Gdv.	non-finite	INFINIT	
-genitive	GEN	Gen.	case	KASUS	
-imperative	IMP	Ipv.	mood	MODUS	
-imperative si	IMP-si 	si-Ipv.	mood	MODUS	
-indicative	IND	Ind.	mood	MODUS	
-infinitive	INF	Inf.	non-finite	INFINIT	
-injuctive	INJ	Inj.	mood	MODUS	
-instrumental	INS	Instr.	case	KASUS	
-intensive	INT	Int.	secondary conjugation	ABGELEITETE_KONJUGATION	
-imperfect	IPRF	Imperf.	tense	TEMPUS	
-locative	LOC	Lok.	case	KASUS	
-local particle	LP	LP	local particle	LOKALPARTIKEL	
-masculine	M	m.	gender	GENUS	
-middle voice	MED	med.	voice	DIATHESE	
-neuter	N	n.	gender	GENUS	
-nominative	NOM	Nom.	case	KASUS	
-optative	OPT	Opt.	mood	MODUS	
-passive voice	PASS	pass.	voice	DIATHESE	
-plural	PL	Pl.	number	NUMERUS	
-past perfect	PLUPRF	Pluperf.	tense	TEMPUS	
-precative	PREC	Prek.	mood	MODUS	
-perfect	PRF	Perf.	tense	TEMPUS	
-present	PRS	Präs.	tense	TEMPUS	
-participle	PTCP	Ptz.	non-finite	INFINIT	
-na participle perfective passive	PTCP-na	na-Ptz.	non-finite	INFINIT	
-ta participle perfective passive	PTCP-ta	ta-Ptz.	non-finite	INFINIT	
-subjunctive	SBJV	Konj.	mood	MODUS	
-singular	SG	Sg.	number	NUMERUS	
-superlative	SUP	sup.	degree	GRADUS	
-vocative	VOC	Vok.	case	KASUS	
+Description,Code TEI and platform,Code vedaweb_zurich.xlsx,Category TEI and platform,Category vedaweb_zurich.xlsx,Comment
+first person,1,1.,person,PERSON,
+second person,2,2.,person,PERSON,
+third person,3,3.,person,PERSON,
+irregular form,-,ir.,-,PRAESENSKLASSE,present stems classes not imported in TEI or platform (due 2025)
+ablative,ABL,Abl.,case,KASUS,
+accusative,ACC,Akk.,case,KASUS,
+active,ACT,Akt.,voice,DIATHESE,
+aorist,AOR,Aor.,tense,TEMPUS,
+causative,CAUS ,Kaus.,secondary conjugation,ABGELEITETE_KONJUGATION,
+comparative,CMP,comp.,degree,GRADUS,
+conditional,COND,Kond.,mood,MODUS,
+converb/absolutiva,CVB,Abs.,non-finite,INFINIT,
+dative,DAT,Dat.,case,KASUS,
+denominative,DEN ,Den.,secondary conjugation,ABGELEITETE_KONJUGATION,
+desiderative,DES ,Des.,secondary conjugation,ABGELEITETE_KONJUGATION,
+dual,DU,Du.,number,NUMERUS,
+feminine,F,f.,gender,GENUS,
+future,FUT,Fut.,tense,TEMPUS,
+gerundive,GDV ,Gdv.,non-finite,INFINIT,
+genitive,GEN,Gen.,case,KASUS,
+imperative,IMP,Ipv.,mood,MODUS,
+imperative si,IMP-si ,si-Ipv.,mood,MODUS,
+indicative,IND,Ind.,mood,MODUS,
+infinitive,INF,Inf.,non-finite,INFINIT,
+injuctive,INJ,Inj.,mood,MODUS,
+instrumental,INS,Instr.,case,KASUS,
+intensive,INT,Int.,secondary conjugation,ABGELEITETE_KONJUGATION,
+imperfect,IPRF,Imperf.,tense,TEMPUS,
+locative,LOC,Lok.,case,KASUS,
+local particle,LP,LP,local particle,LOKALPARTIKEL,
+masculine,M,m.,gender,GENUS,
+middle voice,MED,med.,voice,DIATHESE,
+neuter,N,n.,gender,GENUS,
+nominative,NOM,Nom.,case,KASUS,
+optative,OPT,Opt.,mood,MODUS,
+passive voice,PASS,pass.,voice,DIATHESE,
+plural,PL,Pl.,number,NUMERUS,
+past perfect,PLUPRF,Pluperf.,tense,TEMPUS,
+precative,PREC,Prek.,mood,MODUS,
+perfect,PRF,Perf.,tense,TEMPUS,
+present,PRS,Präs.,tense,TEMPUS,
+participle,PTCP,Ptz.,non-finite,INFINIT,
+na participle perfective passive,PTCP-na,na-Ptz.,non-finite,INFINIT,
+ta participle perfective passive,PTCP-ta,ta-Ptz.,non-finite,INFINIT,
+subjunctive,SBJV,Konj.,mood,MODUS,
+singular,SG,Sg.,number,NUMERUS,
+superlative,SUP,sup.,degree,GRADUS,
+vocative,VOC,Vok.,case,KASUS,
