@@ -578,7 +578,7 @@
                                     <item n="20">Column T: revision of lemmatization (books 1-10)</item>
                                     <item n="21">Column V: update of meanings according to revised lemmatization; minimal revision</item>
                                     <item n="22">Column W: revised annotation of ending -se (“se-Form”) (books 1-10); no systematic revision</item>
-                                    <item n="23">Column X - “KOMMENTAR_ZÜRICH”: column renamed (from "KOMMENTAR"), no systematic revision</item>
+                                    <item n="23">Column X: no systematic revision</item>
                                     <item n="24">Column A-U: general revision or formal inconsistencies and typing errors (book 1-10)</item>
                                 </list>
                                 <p>These are the revisions and additions made by <persName>Natalie Korobzov</persName> and <persName>Pascal Coenen</persName>to the data in 2024 with processual and computational support by <persName>Anna Fischer</persName></p>
